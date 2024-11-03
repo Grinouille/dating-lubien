@@ -8,7 +8,7 @@
 				"question": "Commencer une partie.",
 				"vers": "0_0_1_1",
 				"condition": [],
-				"consequence": [["Objet_BouquetDeFleurs", false],["Objet_Broche", false],["Objet_Marmite", false],["Reveil_Dortoir1_Gauche", false],["Reveil_Dortoir2_Droite", false],["Avoir_Vu_Elo_Dortoir_Chapitre1", false],["AvoirVu_Wakiza_Chapitre0_Soir", false],["Avoir_vu_Ccrazyie_dortoir_Chapitre1", false],["Avoir_vu_Ccrazyie_Salon_Chapitre2_Matin", false],["RDV_Pris_avec_Prunelle_pour_Jardin_Chapitre3", false], ["Bracelet_DonneABlatte", false], ["Avoir_Vu_Prunelle_Jardin_Chapitre3", false],["Objet_rateau_pris", false],["Avoir_Vu_Elo_Jardin_Chapitre4_ApresMidi", false],["Avoir_Vu_Elo_Hall_Chapitre3_Midi", false],["RDV_Pris_Prunelle_pour_Bar_Chapitre4", false],["Avoir_Vu_Lovetand_Ch3_Piscine", false],["Avoir_Vu_Lovetand_Ch2_Bibliotheque", false],["RDV_Pris_Clement_pour_Buffet", false],["Clement_date_effectue", false],["Avoir_Vu_Adelinette_Buffet_Chapitre4_Soir", false],["Avoir_Vu_Lovetand_Ch4_Buffet", false],["AvoirVu_Wakiza_Chapitre0_Soir", false],["AvoirVu_Wakiza_Chapitre2_Matin", false],["Avoir_Vu_Prunelle_Bibliotheque_Chapitre2", false],["Avoir_Vu_Elo_Hall_Chapitre3_Midi", false], ["Avoir_Vu_Elo_Jardin_Chapitre4_ApresMidi", false],["Avoir_Vu_Elo_Dortoir_Chapitre1", false],["Avoir_Vu_Elo_Hall_Chapitre2_Matin", false],["Avoir_Vu_Adelinette_Dortoir2_Chapitre1_Soir", false],["Affinite_Wakiza_plus2", false],["relation_adj_1", false], ["Danse_Refus_ADJ_Dancefloor", false], ["Danse_Faite_ADJ_Dancefloor", false],["Avoir_vu_Ccrazyie_PetitDejSalon_Chapitre2", false], ["Avoir_ParleAvec_Ccrazyie_Dancefloor_Chapitre4", false],["Objet_BraceletAmitie", false],["AffinitePerceneige_plus1", false],["Affinite_Krom_plus1", false], ["Affinite_Krom_plus2", false], ["Affinite_Krom_plus3", false], ["Affinite_Lovetand_moins3", false], ["Affinite_Lovetand_moins2", false], ["Affinite_Lovetand_moins1", false], ["Affinite_Lovetand_plus1", false], ["Affinite_Lovetand_plus2", false], ["Affinite_Lovetand_plus3", false], ["Avoir_Vu_Lovetand_Ch3_Piscine", false], ["Objet_LivreLovetand", false], ["AffiniteLubien_Prunelle_moins3", false], ["AffiniteLubien_Prunelle_moins2", false], ["AffiniteLubien_Prunelle_moins1", false], ["AffiniteLubien_Prunelle_plus1", false], ["AffiniteLubien_Prunelle_plus2", false], ["AffiniteLubien_Prunelle_plus3", false], ["Reveil_Dortoir1_Gauche", false], ["Reveil_Dortoir2_Droite", false],["Repas_PoissonCitron", false], ["Affinite_Krom_plus2", false], ["Visite_cuisine_Chapitre2", false], ["Avoir_Vu_Lovetand_Ch3_Piscine", false], ["Affinite_Lovetand_moins3", false], ["Affinite_Lovetand_moins2", false], ["Affinite_Lovetand_moins1", false], ["Affinite_Lovetand_plus1", false], ["Affinite_Lovetand_plus2", false], ["Affinite_Lovetand_plus3", false], ["Livre_Lovetand_Rendu", false], ["Objet_LivreLovetand", false], ["Avoir_Vu_Prunelle_Bibliotheque_Chapitre2", false], ["AffiniteLubien_Prunelle_moins3", false], ["AffiniteLubien_Prunelle_moins2", false], ["AffiniteLubien_Prunelle_moins1", false], ["AffiniteLubien_Prunelle_plus1", false], ["AffiniteLubien_Prunelle_plus2", false], ["AffiniteLubien_Prunelle_plus3", false], ["Objet_Potion", false],["Repas_PoissonCitron", false], ["Affinite_Krom_plus2", false], ["Visite_cuisine_Chapitre2", false], ["Avoir_Vu_Lovetand_Ch3_Piscine", false], ["Affinite_Lovetand_moins3", false], ["Affinite_Lovetand_moins2", false], ["Affinite_Lovetand_moins1", false], ["Affinite_Lovetand_plus1", false], ["Affinite_Lovetand_plus2", false], ["Affinite_Lovetand_plus3", false], ["Livre_Lovetand_Rendu", false], ["Objet_LivreLovetand", false], ["Avoir_Vu_Prunelle_Bibliotheque_Chapitre2", false], ["AffiniteLubien_Prunelle_moins3", false], ["AffiniteLubien_Prunelle_moins2", false], ["AffiniteLubien_Prunelle_moins1", false], ["AffiniteLubien_Prunelle_plus1", false], ["AffiniteLubien_Prunelle_plus2", false], ["AffiniteLubien_Prunelle_plus3", false], ["Objet_Potion", false],["Repas_PoissonCitron", false], ["Affinite_Krom_plus2", false], ["Visite_cuisine_Chapitre2", false], ["Avoir_Vu_Lovetand_Ch3_Piscine", false], ["Affinite_Lovetand_moins3", false], ["Affinite_Lovetand_moins2", false], ["Affinite_Lovetand_moins1", false], ["Affinite_Lovetand_plus1", false], ["Affinite_Lovetand_plus2", false], ["Affinite_Lovetand_plus3", false], ["Livre_Lovetand_Rendu", false], ["Objet_LivreLovetand", false], ["Avoir_Vu_Prunelle_Bibliotheque_Chapitre2", false], ["AffiniteLubien_Prunelle_moins3", false], ["AffiniteLubien_Prunelle_moins2", false], ["AffiniteLubien_Prunelle_moins1", false], ["AffiniteLubien_Prunelle_plus1", false], ["AffiniteLubien_Prunelle_plus2", false], ["AffiniteLubien_Prunelle_plus3", false], ["Objet_Potion", false],["Repas_PoissonCitron", false], ["Affinite_Krom_plus2", false], ["Visite_cuisine_Chapitre2", false], ["Avoir_Vu_Lovetand_Ch3_Piscine", false], ["Affinite_Lovetand_moins3", false], ["Affinite_Lovetand_moins2", false], ["Affinite_Lovetand_moins1", false], ["Affinite_Lovetand_plus1", false], ["Affinite_Lovetand_plus2", false], ["Affinite_Lovetand_plus3", false], ["Livre_Lovetand_Rendu", false], ["Objet_LivreLovetand", false], ["Avoir_Vu_Prunelle_Bibliotheque_Chapitre2", false], ["AffiniteLubien_Prunelle_moins3", false], ["AffiniteLubien_Prunelle_moins2", false], ["AffiniteLubien_Prunelle_moins1", false], ["AffiniteLubien_Prunelle_plus1", false], ["AffiniteLubien_Prunelle_plus2", false], ["AffiniteLubien_Prunelle_plus3", false], ["Objet_Potion", false],["Repas_PoissonCitron", false], ["Affinite_Krom_plus2", false], ["Visite_cuisine_Chapitre2", false], ["Avoir_Vu_Lovetand_Ch3_Piscine", false], ["Affinite_Lovetand_moins3", false], ["Affinite_Lovetand_moins2", false], ["Affinite_Lovetand_moins1", false], ["Affinite_Lovetand_plus1", false], ["Affinite_Lovetand_plus2", false], ["Affinite_Lovetand_plus3", false], ["Livre_Lovetand_Rendu", false], ["Objet_LivreLovetand", false], ["Avoir_Vu_Prunelle_Bibliotheque_Chapitre2", false], ["AffiniteLubien_Prunelle_moins3", false], ["AffiniteLubien_Prunelle_moins2", false], ["AffiniteLubien_Prunelle_moins1", false], ["AffiniteLubien_Prunelle_plus1", false], ["AffiniteLubien_Prunelle_plus2", false], ["AffiniteLubien_Prunelle_plus3", false], ["Objet_Potion", false],["Repas_PoissonCitron", false], ["Affinite_Krom_plus2", false], ["Visite_cuisine_Chapitre2", false], ["Avoir_Vu_Lovetand_Ch3_Piscine", false], ["Affinite_Lovetand_moins3", false], ["Affinite_Lovetand_moins2", false], ["Affinite_Lovetand_moins1", false], ["Affinite_Lovetand_plus1", false], ["Affinite_Lovetand_plus2", false], ["Affinite_Lovetand_plus3", false], ["Livre_Lovetand_Rendu", false], ["Objet_LivreLovetand", false], ["Avoir_Vu_Prunelle_Bibliotheque_Chapitre2", false], ["AffiniteLubien_Prunelle_moins3", false], ["AffiniteLubien_Prunelle_moins2", false], ["AffiniteLubien_Prunelle_moins1", false], ["AffiniteLubien_Prunelle_plus1", false], ["AffiniteLubien_Prunelle_plus2", false], ["AffiniteLubien_Prunelle_plus3", false], ["Objet_Potion", false],["Avoir_Vu_Klariss_Dortoir_Chapitre1", false], ["Avoir_ParleAvec_Klariss_Dortoir_Chapitre1", false], ["Affinite_Klariss_moins3", false], ["Affinite_Klariss_moins2", false], ["Affinite_Klariss_moins1", false], ["Affinite_Klariss_plus1", false], ["Affinite_Klariss_plus2", false], ["Affinite_Klariss_plus3", false], ["Avoir_Vu_Miroy_Dortoir_Chapitre1", false], ["Avoir_ParleAvec_Miroy_Dortoir_Chapitre1", false], ["Affinite_Miroy_moins3", false], ["Affinite_Miroy_moins2", false], ["Affinite_Miroy_moins1", false], ["Affinite_Miroy_plus1", false], ["Affinite_Miroy_plus2", false], ["Affinite_Miroy_plus3", false], ["Avoir_Vu_Clement_Dortoir_Chapitre1", false], ["Avoir_ParleAvec_Clement_Dortoir_Chapitre1", false], ["Affinite_Clement_moins3", false], ["Affinite_Clement_moins2", false], ["Affinite_Clement_moins1", false], ["Affinite_Clement_plus1", false], ["Affinite_Clement_plus2", false], ["Affinite_Clement_plus3", false], ["Avoir_Vu_Wakiza_Parc_Chapitre0", false], ["Avoir_ParleAvec_Wakiza_Parc_Chapitre0", false], ["Affinite_Wakiza_moins3", false], ["Affinite_Wakiza_moins2", false], ["Affinite_Wakiza_moins1", false], ["Affinite_Wakiza_plus1", false], ["Affinite_Wakiza_plus2", false], ["Affinite_Wakiza_plus3", false],["Avoir_Vu_Krom_Cuisine_Chapitre2", false], ["Avoir_ParleAvec_Krom_Cuisine_Chapitre2", false], ["Affinite_Krom_moins3", false], ["Affinite_Krom_moins2", false], ["Affinite_Krom_moins1", false], ["Affinite_Krom_plus1", false], ["Affinite_Krom_plus2", false], ["Affinite_Krom_plus3", false], ["Avoir_Vu_LesBlattes_Salon_Chapitre2", false], ["Avoir_ParleAvec_LesBlattes_Salon_Chapitre2", false], ["Affinite_LesBlattes_moins3", false], ["Affinite_LesBlattes_moins2", false], ["Affinite_LesBlattes_moins1", false], ["Affinite_LesBlattes_plus1", false], ["Affinite_LesBlattes_plus2", false], ["Affinite_LesBlattes_plus3", false], ["Avoir_Vu_Cray_Observatoire_Chapitre0", false], ["Avoir_ParleAvec_Cray_Observatoire_Chapitre0", false], ["Affinite_Cray_moins3", false], ["Affinite_Cray_moins2", false], ["Affinite_Cray_moins1", false], ["Affinite_Cray_plus1", false], ["Affinite_Cray_plus2", false], ["Affinite_Cray_plus3", false], ["Avoir_Vu_ADJ_Piscine_Chapitre5", false], ["Avoir_ParleAvec_ADJ_Piscine_Chapitre5", false], ["Affinite_ADJ_moins3", false], ["Affinite_ADJ_moins2", false], ["Affinite_ADJ_moins1", false], ["Affinite_ADJ_plus1", false], ["Affinite_ADJ_plus2", false], ["Affinite_ADJ_plus3", false],["Avoir_Vu_Krom_Cuisine_Chapitre2", false], ["Avoir_ParleAvec_Krom_Cuisine_Chapitre2", false], ["Affinite_Krom_moins3", false], ["Affinite_Krom_moins2", false], ["Affinite_Krom_moins1", false], ["Affinite_Krom_plus1", false], ["Affinite_Krom_plus2", false], ["Affinite_Krom_plus3", false], ["Avoir_Vu_LesBlattes_Salon_Chapitre2", false], ["Avoir_ParleAvec_LesBlattes_Salon_Chapitre2", false], ["Affinite_LesBlattes_moins3", false], ["Affinite_LesBlattes_moins2", false], ["Affinite_LesBlattes_moins1", false], ["Affinite_LesBlattes_plus1", false], ["Affinite_LesBlattes_plus2", false], ["Affinite_LesBlattes_plus3", false], ["Avoir_Vu_Cray_Observatoire_Chapitre0", false], ["Avoir_ParleAvec_Cray_Observatoire_Chapitre0", false], ["Affinite_Cray_moins3", false], ["Affinite_Cray_moins2", false], ["Affinite_Cray_moins1", false], ["Affinite_Cray_plus1", false], ["Affinite_Cray_plus2", false], ["Affinite_Cray_plus3", false], ["Avoir_Vu_ADJ_Piscine_Chapitre5", false], ["Avoir_ParleAvec_ADJ_Piscine_Chapitre5", false], ["Affinite_ADJ_moins3", false], ["Affinite_ADJ_moins2", false], ["Affinite_ADJ_moins1", false], ["Affinite_ADJ_plus1", false], ["Affinite_ADJ_plus2", false], ["Affinite_ADJ_plus3", false],["Avoir_Vu_Kooldesource_Chapitre1_Dortoir", false],["Kooldesource_affinite_plus1", false],["Objet_Brouette_Kooldesource", false],["Kooldesource_affinite_moins3", false],["Kooldesource_affinite_moins2", false],["Kooldesource_affinite_moins1", false],["Kooldesource_affinite_plus1", false],["Kooldesource_affinite_plus2", false],["Kooldesource_affinite_plus3", false],["Avoir_Vu_Kooldesource_Chapitre4_Dancefloor", false],["Date_Kooldesource", false],["Avoir_Vu_Kooldesource_Chapitre3_Piscine", false],["Aguk_affinite_moins3", false],["Aguk_affinite_moins2", false],["Aguk_affinite_moins1", false],["Aguk_affinite_plus1", false],["Aguk_affinite_plus2", false],["Aguk_affinite_plus3", false],["Avoir_Vu_Aguk_Chapitre1_Dortoir", false],["objet_fromage", false],["Avoir_Vu_Aguk_Chapitre2_SalleGaming", false],["objet_chapeau_grenouille", false],["Avoir_Vu_Aguk_Chapitre3_Rooftop", false],["ciel_etoile", false],["Amitie_Aguk", false],["Avoir_Vu_Aguk_Chapitre4_Dancefloor", false],["Avoir_Danse_avec_Aguk", false],["Avoir_Vu_Aguk_Chapitre6_FinDeSoiree", false],["Clement_Envie_action", false],["Vouloir_sortir_avec_Clement", false],["Avoir_Vu_Clement_Chapitre3_CabaneArbre", false],["Avoir_Vu_Kooldesource_Chapitre3_Salon", false],["Avoir_Vu_Kooldesource_Chapitre3_Piscine", false],["Avoir_Vu_Kooldesource_Chapitre4_Dancefloor", false],["Avoir_Vu_Kooldesource_Chapitre1_Dortoir", false],["Objet_Costume_Licorne", false],["Branche_LesBlattes_Chapitre2_Cuisine", false],["Affinite_Lovetand_moins3", false],["Affinite_Lovetand_moins2", false],["Affinite_Lovetand_moins1", false],["Affinite_Lovetand_plus1", false],["Affinite_Lovetand_plus2", false],["Affinite_Lovetand_plus3", false],["Lovetand_Questionnaire_Rate", false],["Lovetand_Questionnaire_Reussi", false],["22_Projet_Danse_Sereil_1_Ririsson_Fait", false],["22_Projet_Danse_Sereil_1_Orygamy_Fait", false],["Avoir_Date_Wakiza", false],["AvoirVu_Wakiza_Chapitre4_Bar", false],["Avoir_Vu_Cray_Chapitre3_Hall", false],["AVoir_Vu_Cray_Chapitre0_Observatoire", false],["Avoir_Vu_Lou_Lubie_Bibliotheque_Chapitre2", false],["Avoir_Vu_Lou_Lubie_Bibliotheque_Chapitre3", false],["Avoir_Vu_HadH_Chapitre3_Rooftop", false],["Avoir_Vu_HadH_Ch4_Buffet", false],["Avoir_Vu_ADJ_Ch5_Terrasse", false],["Affinite_HadH_plus1", false],["Affinite_HadH_plus2", false],["Affinite_Lou_plus1", false],["Discours_intro_merci", false],["Discours_intro_equipe", false],["Discours_intro_geniale", false],["Discours_intro_soulee", false],["Affinite_HadH_moins1", false],["Affinite_HadH_plus3", false],["Affinite_Lou_plus2", false],["Discours_conclusion_cinema", false],["Discours_conclusion_longtemps", false],["Discours_conclusion_japon", false],["Discours_conclusion_fermeture", false],["Affinite_HadH_plus4", false],["Affinite_HadH_plus3", false],["Bandeau_sur_les_yeux", false],["Avoir_vu_Perceneige_Salon_Chapitre2_Matin", false],["Avoir_Vu_HadH_Buffet_Chapitre4", false],["AVoir_Vu_Cray_Chapitre0_Observatoire", false],["Avoir_Vu_Ririsson_Orygamy_Chapitre3_Hall", false],["Avoir_Vu_Orygamy_Chapitre3_Hall", false],["Avoir_Vu_Ririsson_Chapitre3_Hall", false],["Avoir_Vu_ADJ_Midi", false],["Avoir_vu_Paul_PetitDej_Salon_Chapitre2", false],["Avoir_Vu_Paul_Chapitre1_Cuisine", false],["Reveil_Dortoir1_Gauche", false],["Reveil_Dortoir2_Droite", false],["Aguk_Parle_Dans_Son_Sommeil", false],["Aguk_Coup_De_pied_Sommeil", false],["Aguk_Rassure_Sommeil", false],["Appel_A_table_Repas_Soiree", false],["Objet_BouteilleVin", false],["Objet_CouteauCuisine", false],["Objet_LivreDeRecettes", false],["Objet_FeuillesEucalyptus", false],["Objet_RoseBoutonniere", false],["Objet_MorceauDeFromage", false],["Avoir_Vu_Rodklover_Et_Izaro_Jardin_Chapitre4_ApresMidi", false],["Avoir_Ecoute_Rodklover_Et_Izaro_Jardin_Chapitre4_ApresMidi", false],["Avoir_Vu_Rodklover_Et_Izaro_Roseraie_Chapitre4_ApresMidi", false],["18_Paul_Chapitre_affinite_moins_1", false],["Objet_MorceauDeFromage", false],["18_Paul_Chapitre_affinite_plus_1", false],["Avoir_Voulu_Visiter_Backrooms", false],["Aider_Barbecue", false],["Avoir_Vu_Sereil_Plage_Jour", false],["Aguk_Mort", false],["Avoir_Vu_Elo_Salle_De_Gaming_Chapitre4_ApresMidi", false],["Avoir_Vu_Clement_Voyage_Temporel", false],["Klariss_Question_tutoiement", false],["Bracelet_DonneASereil", false],["Entree_Branche_Klariss_Salle_De_Gaming_Chapitre2_Matin", false],["Avoir_Vu_Ja_Pix_Chapitre1", false],["RDV_Pris_Ja_Pix_Chapitre1_Vers_Cabane_Chapitre3", false],["Avoir_Vu_Ja_Pix_Chapitre3_CabaneArbre", false],["Avoir_Vu_Ja_Pix_Chapitre3_CabaneArbre", false],["Demande_Ja_Pix_Objet_LivreLovetand", false],["RDV_Pris_Ja_Pix_Chapitre2_Vers_Cabane_Chapitre3", false],["Objet_Chaussettes_Motif_Citrons_Ja_Pix", false],["Avoir_Lu_Lettre_Ja_Pix_Chapitre3_Salle_De_Gaming", false],["Avoir_Vu_Ja_Pix_Chapitre6_Dancefloor", false],["RDV_Ja_Pix_Vers_Dancefloor_Soiree", false]]		
+				"consequence": [["Objet_BouquetDeFleurs", false],["Objet_Broche", false],["Objet_Marmite", false],["Reveil_Dortoir1_Gauche", false],["Reveil_Dortoir2_Droite", false],["Avoir_Vu_Elo_Dortoir_Chapitre1", false],["AvoirVu_Wakiza_Chapitre0_Soir", false],["Avoir_vu_Ccrazyie_dortoir_Chapitre1", false],["Avoir_vu_Ccrazyie_Salon_Chapitre2_Matin", false],["RDV_Pris_avec_Prunelle_pour_Jardin_Chapitre3", false], ["Bracelet_DonneABlatte", false], ["Avoir_Vu_Prunelle_Jardin_Chapitre3", false],["Objet_rateau_pris", false],["Avoir_Vu_Elo_Jardin_Chapitre4_ApresMidi", false],["Avoir_Vu_Elo_Hall_Chapitre3_Midi", false],["RDV_Pris_Prunelle_pour_Bar_Chapitre4", false],["Avoir_Vu_Lovetand_Ch3_Piscine", false],["Avoir_Vu_Lovetand_Ch2_Bibliotheque", false],["RDV_Pris_Clement_pour_Buffet", false],["Clement_date_effectue", false],["Avoir_Vu_Adelinette_Buffet_Chapitre4_Soir", false],["Avoir_Vu_Lovetand_Ch4_Buffet", false],["AvoirVu_Wakiza_Chapitre0_Soir", false],["AvoirVu_Wakiza_Chapitre2_Matin", false],["Avoir_Vu_Prunelle_Bibliotheque_Chapitre2", false],["Avoir_Vu_Elo_Hall_Chapitre3_Midi", false], ["Avoir_Vu_Elo_Jardin_Chapitre4_ApresMidi", false],["Avoir_Vu_Elo_Dortoir_Chapitre1", false],["Avoir_Vu_Elo_Hall_Chapitre2_Matin", false],["Avoir_Vu_Adelinette_Dortoir2_Chapitre1_Soir", false],["Affinite_Wakiza_plus2", false],["relation_adj_1", false], ["Danse_Refus_ADJ_Dancefloor", false], ["Danse_Faite_ADJ_Dancefloor", false],["Avoir_vu_Ccrazyie_PetitDejSalon_Chapitre2", false], ["Avoir_ParleAvec_Ccrazyie_Dancefloor_Chapitre4", false],["Objet_BraceletAmitie", false],["AffinitePerceneige_plus1", false],["Affinite_Krom_plus1", false], ["Affinite_Krom_plus2", false], ["Affinite_Krom_plus3", false], ["Affinite_Lovetand_moins3", false], ["Affinite_Lovetand_moins2", false], ["Affinite_Lovetand_moins1", false], ["Affinite_Lovetand_plus1", false], ["Affinite_Lovetand_plus2", false], ["Affinite_Lovetand_plus3", false], ["Avoir_Vu_Lovetand_Ch3_Piscine", false], ["Objet_LivreLovetand", false], ["AffiniteLubien_Prunelle_moins3", false], ["AffiniteLubien_Prunelle_moins2", false], ["AffiniteLubien_Prunelle_moins1", false], ["AffiniteLubien_Prunelle_plus1", false], ["AffiniteLubien_Prunelle_plus2", false], ["AffiniteLubien_Prunelle_plus3", false], ["Reveil_Dortoir1_Gauche", false], ["Reveil_Dortoir2_Droite", false],["Repas_PoissonCitron", false], ["Affinite_Krom_plus2", false], ["Visite_cuisine_Chapitre2", false], ["Avoir_Vu_Lovetand_Ch3_Piscine", false], ["Affinite_Lovetand_moins3", false], ["Affinite_Lovetand_moins2", false], ["Affinite_Lovetand_moins1", false], ["Affinite_Lovetand_plus1", false], ["Affinite_Lovetand_plus2", false], ["Affinite_Lovetand_plus3", false], ["Livre_Lovetand_Rendu", false], ["Objet_LivreLovetand", false], ["Avoir_Vu_Prunelle_Bibliotheque_Chapitre2", false], ["AffiniteLubien_Prunelle_moins3", false], ["AffiniteLubien_Prunelle_moins2", false], ["AffiniteLubien_Prunelle_moins1", false], ["AffiniteLubien_Prunelle_plus1", false], ["AffiniteLubien_Prunelle_plus2", false], ["AffiniteLubien_Prunelle_plus3", false], ["Objet_Potion", false],["Repas_PoissonCitron", false], ["Affinite_Krom_plus2", false], ["Visite_cuisine_Chapitre2", false], ["Avoir_Vu_Lovetand_Ch3_Piscine", false], ["Affinite_Lovetand_moins3", false], ["Affinite_Lovetand_moins2", false], ["Affinite_Lovetand_moins1", false], ["Affinite_Lovetand_plus1", false], ["Affinite_Lovetand_plus2", false], ["Affinite_Lovetand_plus3", false], ["Livre_Lovetand_Rendu", false], ["Objet_LivreLovetand", false], ["Avoir_Vu_Prunelle_Bibliotheque_Chapitre2", false], ["AffiniteLubien_Prunelle_moins3", false], ["AffiniteLubien_Prunelle_moins2", false], ["AffiniteLubien_Prunelle_moins1", false], ["AffiniteLubien_Prunelle_plus1", false], ["AffiniteLubien_Prunelle_plus2", false], ["AffiniteLubien_Prunelle_plus3", false], ["Objet_Potion", false],["Repas_PoissonCitron", false], ["Affinite_Krom_plus2", false], ["Visite_cuisine_Chapitre2", false], ["Avoir_Vu_Lovetand_Ch3_Piscine", false], ["Affinite_Lovetand_moins3", false], ["Affinite_Lovetand_moins2", false], ["Affinite_Lovetand_moins1", false], ["Affinite_Lovetand_plus1", false], ["Affinite_Lovetand_plus2", false], ["Affinite_Lovetand_plus3", false], ["Livre_Lovetand_Rendu", false], ["Objet_LivreLovetand", false], ["Avoir_Vu_Prunelle_Bibliotheque_Chapitre2", false], ["AffiniteLubien_Prunelle_moins3", false], ["AffiniteLubien_Prunelle_moins2", false], ["AffiniteLubien_Prunelle_moins1", false], ["AffiniteLubien_Prunelle_plus1", false], ["AffiniteLubien_Prunelle_plus2", false], ["AffiniteLubien_Prunelle_plus3", false], ["Objet_Potion", false],["Repas_PoissonCitron", false], ["Affinite_Krom_plus2", false], ["Visite_cuisine_Chapitre2", false], ["Avoir_Vu_Lovetand_Ch3_Piscine", false], ["Affinite_Lovetand_moins3", false], ["Affinite_Lovetand_moins2", false], ["Affinite_Lovetand_moins1", false], ["Affinite_Lovetand_plus1", false], ["Affinite_Lovetand_plus2", false], ["Affinite_Lovetand_plus3", false], ["Livre_Lovetand_Rendu", false], ["Objet_LivreLovetand", false], ["Avoir_Vu_Prunelle_Bibliotheque_Chapitre2", false], ["AffiniteLubien_Prunelle_moins3", false], ["AffiniteLubien_Prunelle_moins2", false], ["AffiniteLubien_Prunelle_moins1", false], ["AffiniteLubien_Prunelle_plus1", false], ["AffiniteLubien_Prunelle_plus2", false], ["AffiniteLubien_Prunelle_plus3", false], ["Objet_Potion", false],["Repas_PoissonCitron", false], ["Affinite_Krom_plus2", false], ["Visite_cuisine_Chapitre2", false], ["Avoir_Vu_Lovetand_Ch3_Piscine", false], ["Affinite_Lovetand_moins3", false], ["Affinite_Lovetand_moins2", false], ["Affinite_Lovetand_moins1", false], ["Affinite_Lovetand_plus1", false], ["Affinite_Lovetand_plus2", false], ["Affinite_Lovetand_plus3", false], ["Livre_Lovetand_Rendu", false], ["Objet_LivreLovetand", false], ["Avoir_Vu_Prunelle_Bibliotheque_Chapitre2", false], ["AffiniteLubien_Prunelle_moins3", false], ["AffiniteLubien_Prunelle_moins2", false], ["AffiniteLubien_Prunelle_moins1", false], ["AffiniteLubien_Prunelle_plus1", false], ["AffiniteLubien_Prunelle_plus2", false], ["AffiniteLubien_Prunelle_plus3", false], ["Objet_Potion", false],["Repas_PoissonCitron", false], ["Affinite_Krom_plus2", false], ["Visite_cuisine_Chapitre2", false], ["Avoir_Vu_Lovetand_Ch3_Piscine", false], ["Affinite_Lovetand_moins3", false], ["Affinite_Lovetand_moins2", false], ["Affinite_Lovetand_moins1", false], ["Affinite_Lovetand_plus1", false], ["Affinite_Lovetand_plus2", false], ["Affinite_Lovetand_plus3", false], ["Livre_Lovetand_Rendu", false], ["Objet_LivreLovetand", false], ["Avoir_Vu_Prunelle_Bibliotheque_Chapitre2", false], ["AffiniteLubien_Prunelle_moins3", false], ["AffiniteLubien_Prunelle_moins2", false], ["AffiniteLubien_Prunelle_moins1", false], ["AffiniteLubien_Prunelle_plus1", false], ["AffiniteLubien_Prunelle_plus2", false], ["AffiniteLubien_Prunelle_plus3", false], ["Objet_Potion", false],["Avoir_Vu_Klariss_Dortoir_Chapitre1", false], ["Avoir_ParleAvec_Klariss_Dortoir_Chapitre1", false], ["Affinite_Klariss_moins3", false], ["Affinite_Klariss_moins2", false], ["Affinite_Klariss_moins1", false], ["Affinite_Klariss_plus1", false], ["Affinite_Klariss_plus2", false], ["Affinite_Klariss_plus3", false], ["Avoir_Vu_Miroy_Dortoir_Chapitre1", false], ["Avoir_ParleAvec_Miroy_Dortoir_Chapitre1", false], ["Affinite_Miroy_moins3", false], ["Affinite_Miroy_moins2", false], ["Affinite_Miroy_moins1", false], ["Affinite_Miroy_plus1", false], ["Affinite_Miroy_plus2", false], ["Affinite_Miroy_plus3", false], ["Avoir_Vu_Clement_Dortoir_Chapitre1", false], ["Avoir_ParleAvec_Clement_Dortoir_Chapitre1", false], ["Affinite_Clement_moins3", false], ["Affinite_Clement_moins2", false], ["Affinite_Clement_moins1", false], ["Affinite_Clement_plus1", false], ["Affinite_Clement_plus2", false], ["Affinite_Clement_plus3", false], ["Avoir_Vu_Wakiza_Parc_Chapitre0", false], ["Avoir_ParleAvec_Wakiza_Parc_Chapitre0", false], ["Affinite_Wakiza_moins3", false], ["Affinite_Wakiza_moins2", false], ["Affinite_Wakiza_moins1", false], ["Affinite_Wakiza_plus1", false], ["Affinite_Wakiza_plus2", false], ["Affinite_Wakiza_plus3", false],["Avoir_Vu_Krom_Cuisine_Chapitre2", false], ["Avoir_ParleAvec_Krom_Cuisine_Chapitre2", false], ["Affinite_Krom_moins3", false], ["Affinite_Krom_moins2", false], ["Affinite_Krom_moins1", false], ["Affinite_Krom_plus1", false], ["Affinite_Krom_plus2", false], ["Affinite_Krom_plus3", false], ["Avoir_Vu_LesBlattes_Salon_Chapitre2", false], ["Avoir_ParleAvec_LesBlattes_Salon_Chapitre2", false], ["Affinite_LesBlattes_moins3", false], ["Affinite_LesBlattes_moins2", false], ["Affinite_LesBlattes_moins1", false], ["Affinite_LesBlattes_plus1", false], ["Affinite_LesBlattes_plus2", false], ["Affinite_LesBlattes_plus3", false], ["Avoir_Vu_Cray_Observatoire_Chapitre0", false], ["Avoir_ParleAvec_Cray_Observatoire_Chapitre0", false], ["Affinite_Cray_moins3", false], ["Affinite_Cray_moins2", false], ["Affinite_Cray_moins1", false], ["Affinite_Cray_plus1", false], ["Affinite_Cray_plus2", false], ["Affinite_Cray_plus3", false], ["Avoir_Vu_ADJ_Piscine_Chapitre5", false], ["Avoir_ParleAvec_ADJ_Piscine_Chapitre5", false], ["Affinite_ADJ_moins3", false], ["Affinite_ADJ_moins2", false], ["Affinite_ADJ_moins1", false], ["Affinite_ADJ_plus1", false], ["Affinite_ADJ_plus2", false], ["Affinite_ADJ_plus3", false],["Avoir_Vu_Krom_Cuisine_Chapitre2", false], ["Avoir_ParleAvec_Krom_Cuisine_Chapitre2", false], ["Affinite_Krom_moins3", false], ["Affinite_Krom_moins2", false], ["Affinite_Krom_moins1", false], ["Affinite_Krom_plus1", false], ["Affinite_Krom_plus2", false], ["Affinite_Krom_plus3", false], ["Avoir_Vu_LesBlattes_Salon_Chapitre2", false], ["Avoir_ParleAvec_LesBlattes_Salon_Chapitre2", false], ["Affinite_LesBlattes_moins3", false], ["Affinite_LesBlattes_moins2", false], ["Affinite_LesBlattes_moins1", false], ["Affinite_LesBlattes_plus1", false], ["Affinite_LesBlattes_plus2", false], ["Affinite_LesBlattes_plus3", false], ["Avoir_Vu_Cray_Observatoire_Chapitre0", false], ["Avoir_ParleAvec_Cray_Observatoire_Chapitre0", false], ["Affinite_Cray_moins3", false], ["Affinite_Cray_moins2", false], ["Affinite_Cray_moins1", false], ["Affinite_Cray_plus1", false], ["Affinite_Cray_plus2", false], ["Affinite_Cray_plus3", false], ["Avoir_Vu_ADJ_Piscine_Chapitre5", false], ["Avoir_ParleAvec_ADJ_Piscine_Chapitre5", false], ["Affinite_ADJ_moins3", false], ["Affinite_ADJ_moins2", false], ["Affinite_ADJ_moins1", false], ["Affinite_ADJ_plus1", false], ["Affinite_ADJ_plus2", false], ["Affinite_ADJ_plus3", false],["Avoir_Vu_Kooldesource_Chapitre1_Dortoir", false],["Kooldesource_affinite_plus1", false],["Objet_Brouette_Kooldesource", false],["Kooldesource_affinite_moins3", false],["Kooldesource_affinite_moins2", false],["Kooldesource_affinite_moins1", false],["Kooldesource_affinite_plus1", false],["Kooldesource_affinite_plus2", false],["Kooldesource_affinite_plus3", false],["Avoir_Vu_Kooldesource_Chapitre4_Dancefloor", false],["Date_Kooldesource", false],["Avoir_Vu_Kooldesource_Chapitre3_Piscine", false],["Aguk_affinite_moins3", false],["Aguk_affinite_moins2", false],["Aguk_affinite_moins1", false],["Aguk_affinite_plus1", false],["Aguk_affinite_plus2", false],["Aguk_affinite_plus3", false],["Avoir_Vu_Aguk_Chapitre1_Dortoir", false],["objet_fromage", false],["Avoir_Vu_Aguk_Chapitre2_SalleGaming", false],["objet_chapeau_grenouille", false],["Avoir_Vu_Aguk_Chapitre3_Rooftop", false],["ciel_etoile", false],["Amitie_Aguk", false],["Avoir_Vu_Aguk_Chapitre4_Dancefloor", false],["Avoir_Danse_avec_Aguk", false],["Avoir_Vu_Aguk_Chapitre6_FinDeSoiree", false],["Clement_Envie_action", false],["Vouloir_sortir_avec_Clement", false],["Avoir_Vu_Clement_Chapitre3_CabaneArbre", false],["Avoir_Vu_Kooldesource_Chapitre3_Salon", false],["Avoir_Vu_Kooldesource_Chapitre3_Piscine", false],["Avoir_Vu_Kooldesource_Chapitre4_Dancefloor", false],["Avoir_Vu_Kooldesource_Chapitre1_Dortoir", false],["Objet_Costume_Licorne", false],["Branche_LesBlattes_Chapitre2_Cuisine", false],["Affinite_Lovetand_moins3", false],["Affinite_Lovetand_moins2", false],["Affinite_Lovetand_moins1", false],["Affinite_Lovetand_plus1", false],["Affinite_Lovetand_plus2", false],["Affinite_Lovetand_plus3", false],["Lovetand_Questionnaire_Rate", false],["Lovetand_Questionnaire_Reussi", false],["22_Projet_Danse_Sereil_1_Ririsson_Fait", false],["22_Projet_Danse_Sereil_1_Orygamy_Fait", false],["Avoir_Date_Wakiza", false],["AvoirVu_Wakiza_Chapitre4_Bar", false],["Avoir_Vu_Cray_Chapitre3_Hall", false],["AVoir_Vu_Cray_Chapitre0_Observatoire", false],["Avoir_Vu_Lou_Lubie_Bibliotheque_Chapitre2", false],["Avoir_Vu_Lou_Lubie_Bibliotheque_Chapitre3", false],["Avoir_Vu_HadH_Chapitre3_Rooftop", false],["Avoir_Vu_HadH_Ch4_Buffet", false],["Avoir_Vu_ADJ_Ch5_Terrasse", false],["Affinite_HadH_plus1", false],["Affinite_HadH_plus2", false],["Affinite_Lou_plus1", false],["Discours_intro_merci", false],["Discours_intro_equipe", false],["Discours_intro_geniale", false],["Discours_intro_soulee", false],["Affinite_HadH_moins1", false],["Affinite_HadH_plus3", false],["Affinite_Lou_plus2", false],["Discours_conclusion_cinema", false],["Discours_conclusion_longtemps", false],["Discours_conclusion_japon", false],["Discours_conclusion_fermeture", false],["Affinite_HadH_plus4", false],["Affinite_HadH_plus3", false],["Bandeau_sur_les_yeux", false],["Avoir_vu_Perceneige_Salon_Chapitre2_Matin", false],["Avoir_Vu_HadH_Buffet_Chapitre4", false],["AVoir_Vu_Cray_Chapitre0_Observatoire", false],["Avoir_Vu_Ririsson_Orygamy_Chapitre3_Hall", false],["Avoir_Vu_Orygamy_Chapitre3_Hall", false],["Avoir_Vu_Ririsson_Chapitre3_Hall", false],["Avoir_Vu_ADJ_Midi", false],["Avoir_vu_Paul_PetitDej_Salon_Chapitre2", false],["Avoir_Vu_Paul_Chapitre1_Cuisine", false],["Reveil_Dortoir1_Gauche", false],["Reveil_Dortoir2_Droite", false],["Aguk_Parle_Dans_Son_Sommeil", false],["Aguk_Coup_De_pied_Sommeil", false],["Aguk_Rassure_Sommeil", false],["Appel_A_table_Repas_Soiree", false],["Objet_BouteilleVin", false],["Objet_CouteauCuisine", false],["Objet_LivreDeRecettes", false],["Objet_FeuillesEucalyptus", false],["Objet_RoseBoutonniere", false],["Objet_MorceauDeFromage", false],["Avoir_Vu_Rodklover_Et_Izaro_Jardin_Chapitre4_ApresMidi", false],["Avoir_Ecoute_Rodklover_Et_Izaro_Jardin_Chapitre4_ApresMidi", false],["Avoir_Vu_Rodklover_Et_Izaro_Roseraie_Chapitre4_ApresMidi", false],["18_Paul_Chapitre_affinite_moins_1", false],["Objet_MorceauDeFromage", false],["18_Paul_Chapitre_affinite_plus_1", false],["Avoir_Voulu_Visiter_Backrooms", false],["Aider_Barbecue", false],["Avoir_Vu_Sereil_Plage_Jour", false],["Aguk_Mort", false],["Avoir_Vu_Elo_Salle_De_Gaming_Chapitre4_ApresMidi", false],["Avoir_Vu_Clement_Voyage_Temporel", false],["Klariss_Question_tutoiement", false],["Bracelet_DonneASereil", false],["Entree_Branche_Klariss_Salle_De_Gaming_Chapitre2_Matin", false],["Avoir_Vu_Ja_Pix_Chapitre1", false],["RDV_Pris_Ja_Pix_Chapitre1_Vers_Cabane_Chapitre3", false],["Avoir_Vu_Ja_Pix_Chapitre3_CabaneArbre", false],["Avoir_Vu_Ja_Pix_Chapitre3_CabaneArbre", false],["Demande_Ja_Pix_Objet_LivreLovetand", false],["RDV_Pris_Ja_Pix_Chapitre2_Vers_Cabane_Chapitre3", false],["Objet_Chaussettes_Motif_Citrons_Ja_Pix", false],["Avoir_Lu_Lettre_Ja_Pix_Chapitre3_Salle_De_Gaming", false],["Avoir_Vu_Ja_Pix_Chapitre6_Dancefloor", false],["RDV_Ja_Pix_Vers_Dancefloor_Soiree", false],["Avoir_Date_Sereil", false],["Avoir_Survecu_Fin_Du_Monde", false],["Verre_Brise", false],["Joueur_Tue_Par_Adelinette", false],["Date_Adelinette", false],["Partir_Vivre_En_Lozere", false],["Liberer_Table_Verte", false],["Avoir_Vu_ADJ_Dans_Costume_Licorne", false],["Voir_Aguk_Sourire", false],["Avoir_Regarde_Film_Avec_Aguk", false],["Etre_Alle_Sur_Toit_Cabane", false],["Avoir_Provoque_Paradoxe_Temporel_Avec_Clement", false],["Avoir_Donne_Feuilles_Eucalyptus_A_Elo", false],["Avoir_Donne_BouquetDeFleurs_A_Lou", false],["Avoir_Frotte_Lampe_Genie", false],["Avoir_Regarde_Powerpoint", false]]		
 			},{
 				"question": "Écouter la playlist du jeu.</a>",
 				"vers": "_playlist",
@@ -23,7 +23,7 @@
 				"question": "Commencer une partie.",
 				"vers": "0_0_1_1",
 				"condition": [],
-				"consequence": [["Objet_BouquetDeFleurs", false],["Objet_Broche", false],["Objet_Marmite", false],["Reveil_Dortoir1_Gauche", false],["Reveil_Dortoir2_Droite", false],["Avoir_Vu_Elo_Dortoir_Chapitre1", false],["AvoirVu_Wakiza_Chapitre0_Soir", false],["Avoir_vu_Ccrazyie_dortoir_Chapitre1", false],["Avoir_vu_Ccrazyie_Salon_Chapitre2_Matin", false],["RDV_Pris_avec_Prunelle_pour_Jardin_Chapitre3", false], ["Bracelet_DonneABlatte", false], ["Avoir_Vu_Prunelle_Jardin_Chapitre3", false],["Objet_rateau_pris", false],["Avoir_Vu_Elo_Jardin_Chapitre4_ApresMidi", false],["Avoir_Vu_Elo_Hall_Chapitre3_Midi", false],["RDV_Pris_Prunelle_pour_Bar_Chapitre4", false],["Avoir_Vu_Lovetand_Ch3_Piscine", false],["Avoir_Vu_Lovetand_Ch2_Bibliotheque", false],["RDV_Pris_Clement_pour_Buffet", false],["Clement_date_effectue", false],["Avoir_Vu_Adelinette_Buffet_Chapitre4_Soir", false],["Avoir_Vu_Lovetand_Ch4_Buffet", false],["AvoirVu_Wakiza_Chapitre0_Soir", false],["AvoirVu_Wakiza_Chapitre2_Matin", false],["Avoir_Vu_Prunelle_Bibliotheque_Chapitre2", false],["Avoir_Vu_Elo_Hall_Chapitre3_Midi", false], ["Avoir_Vu_Elo_Jardin_Chapitre4_ApresMidi", false],["Avoir_Vu_Elo_Dortoir_Chapitre1", false],["Avoir_Vu_Elo_Hall_Chapitre2_Matin", false],["Avoir_Vu_Adelinette_Dortoir2_Chapitre1_Soir", false],["Affinite_Wakiza_plus2", false],["relation_adj_1", false], ["Danse_Refus_ADJ_Dancefloor", false], ["Danse_Faite_ADJ_Dancefloor", false],["Avoir_vu_Ccrazyie_PetitDejSalon_Chapitre2", false], ["Avoir_ParleAvec_Ccrazyie_Dancefloor_Chapitre4", false],["Objet_BraceletAmitie", false],["AffinitePerceneige_plus1", false],["Affinite_Krom_plus1", false], ["Affinite_Krom_plus2", false], ["Affinite_Krom_plus3", false], ["Affinite_Lovetand_moins3", false], ["Affinite_Lovetand_moins2", false], ["Affinite_Lovetand_moins1", false], ["Affinite_Lovetand_plus1", false], ["Affinite_Lovetand_plus2", false], ["Affinite_Lovetand_plus3", false], ["Avoir_Vu_Lovetand_Ch3_Piscine", false], ["Objet_LivreLovetand", false], ["AffiniteLubien_Prunelle_moins3", false], ["AffiniteLubien_Prunelle_moins2", false], ["AffiniteLubien_Prunelle_moins1", false], ["AffiniteLubien_Prunelle_plus1", false], ["AffiniteLubien_Prunelle_plus2", false], ["AffiniteLubien_Prunelle_plus3", false], ["Reveil_Dortoir1_Gauche", false], ["Reveil_Dortoir2_Droite", false],["Repas_PoissonCitron", false], ["Affinite_Krom_plus2", false], ["Visite_cuisine_Chapitre2", false], ["Avoir_Vu_Lovetand_Ch3_Piscine", false], ["Affinite_Lovetand_moins3", false], ["Affinite_Lovetand_moins2", false], ["Affinite_Lovetand_moins1", false], ["Affinite_Lovetand_plus1", false], ["Affinite_Lovetand_plus2", false], ["Affinite_Lovetand_plus3", false], ["Livre_Lovetand_Rendu", false], ["Objet_LivreLovetand", false], ["Avoir_Vu_Prunelle_Bibliotheque_Chapitre2", false], ["AffiniteLubien_Prunelle_moins3", false], ["AffiniteLubien_Prunelle_moins2", false], ["AffiniteLubien_Prunelle_moins1", false], ["AffiniteLubien_Prunelle_plus1", false], ["AffiniteLubien_Prunelle_plus2", false], ["AffiniteLubien_Prunelle_plus3", false], ["Objet_Potion", false],["Repas_PoissonCitron", false], ["Affinite_Krom_plus2", false], ["Visite_cuisine_Chapitre2", false], ["Avoir_Vu_Lovetand_Ch3_Piscine", false], ["Affinite_Lovetand_moins3", false], ["Affinite_Lovetand_moins2", false], ["Affinite_Lovetand_moins1", false], ["Affinite_Lovetand_plus1", false], ["Affinite_Lovetand_plus2", false], ["Affinite_Lovetand_plus3", false], ["Livre_Lovetand_Rendu", false], ["Objet_LivreLovetand", false], ["Avoir_Vu_Prunelle_Bibliotheque_Chapitre2", false], ["AffiniteLubien_Prunelle_moins3", false], ["AffiniteLubien_Prunelle_moins2", false], ["AffiniteLubien_Prunelle_moins1", false], ["AffiniteLubien_Prunelle_plus1", false], ["AffiniteLubien_Prunelle_plus2", false], ["AffiniteLubien_Prunelle_plus3", false], ["Objet_Potion", false],["Repas_PoissonCitron", false], ["Affinite_Krom_plus2", false], ["Visite_cuisine_Chapitre2", false], ["Avoir_Vu_Lovetand_Ch3_Piscine", false], ["Affinite_Lovetand_moins3", false], ["Affinite_Lovetand_moins2", false], ["Affinite_Lovetand_moins1", false], ["Affinite_Lovetand_plus1", false], ["Affinite_Lovetand_plus2", false], ["Affinite_Lovetand_plus3", false], ["Livre_Lovetand_Rendu", false], ["Objet_LivreLovetand", false], ["Avoir_Vu_Prunelle_Bibliotheque_Chapitre2", false], ["AffiniteLubien_Prunelle_moins3", false], ["AffiniteLubien_Prunelle_moins2", false], ["AffiniteLubien_Prunelle_moins1", false], ["AffiniteLubien_Prunelle_plus1", false], ["AffiniteLubien_Prunelle_plus2", false], ["AffiniteLubien_Prunelle_plus3", false], ["Objet_Potion", false],["Repas_PoissonCitron", false], ["Affinite_Krom_plus2", false], ["Visite_cuisine_Chapitre2", false], ["Avoir_Vu_Lovetand_Ch3_Piscine", false], ["Affinite_Lovetand_moins3", false], ["Affinite_Lovetand_moins2", false], ["Affinite_Lovetand_moins1", false], ["Affinite_Lovetand_plus1", false], ["Affinite_Lovetand_plus2", false], ["Affinite_Lovetand_plus3", false], ["Livre_Lovetand_Rendu", false], ["Objet_LivreLovetand", false], ["Avoir_Vu_Prunelle_Bibliotheque_Chapitre2", false], ["AffiniteLubien_Prunelle_moins3", false], ["AffiniteLubien_Prunelle_moins2", false], ["AffiniteLubien_Prunelle_moins1", false], ["AffiniteLubien_Prunelle_plus1", false], ["AffiniteLubien_Prunelle_plus2", false], ["AffiniteLubien_Prunelle_plus3", false], ["Objet_Potion", false],["Repas_PoissonCitron", false], ["Affinite_Krom_plus2", false], ["Visite_cuisine_Chapitre2", false], ["Avoir_Vu_Lovetand_Ch3_Piscine", false], ["Affinite_Lovetand_moins3", false], ["Affinite_Lovetand_moins2", false], ["Affinite_Lovetand_moins1", false], ["Affinite_Lovetand_plus1", false], ["Affinite_Lovetand_plus2", false], ["Affinite_Lovetand_plus3", false], ["Livre_Lovetand_Rendu", false], ["Objet_LivreLovetand", false], ["Avoir_Vu_Prunelle_Bibliotheque_Chapitre2", false], ["AffiniteLubien_Prunelle_moins3", false], ["AffiniteLubien_Prunelle_moins2", false], ["AffiniteLubien_Prunelle_moins1", false], ["AffiniteLubien_Prunelle_plus1", false], ["AffiniteLubien_Prunelle_plus2", false], ["AffiniteLubien_Prunelle_plus3", false], ["Objet_Potion", false],["Repas_PoissonCitron", false], ["Affinite_Krom_plus2", false], ["Visite_cuisine_Chapitre2", false], ["Avoir_Vu_Lovetand_Ch3_Piscine", false], ["Affinite_Lovetand_moins3", false], ["Affinite_Lovetand_moins2", false], ["Affinite_Lovetand_moins1", false], ["Affinite_Lovetand_plus1", false], ["Affinite_Lovetand_plus2", false], ["Affinite_Lovetand_plus3", false], ["Livre_Lovetand_Rendu", false], ["Objet_LivreLovetand", false], ["Avoir_Vu_Prunelle_Bibliotheque_Chapitre2", false], ["AffiniteLubien_Prunelle_moins3", false], ["AffiniteLubien_Prunelle_moins2", false], ["AffiniteLubien_Prunelle_moins1", false], ["AffiniteLubien_Prunelle_plus1", false], ["AffiniteLubien_Prunelle_plus2", false], ["AffiniteLubien_Prunelle_plus3", false], ["Objet_Potion", false],["Avoir_Vu_Klariss_Dortoir_Chapitre1", false], ["Avoir_ParleAvec_Klariss_Dortoir_Chapitre1", false], ["Affinite_Klariss_moins3", false], ["Affinite_Klariss_moins2", false], ["Affinite_Klariss_moins1", false], ["Affinite_Klariss_plus1", false], ["Affinite_Klariss_plus2", false], ["Affinite_Klariss_plus3", false], ["Avoir_Vu_Miroy_Dortoir_Chapitre1", false], ["Avoir_ParleAvec_Miroy_Dortoir_Chapitre1", false], ["Affinite_Miroy_moins3", false], ["Affinite_Miroy_moins2", false], ["Affinite_Miroy_moins1", false], ["Affinite_Miroy_plus1", false], ["Affinite_Miroy_plus2", false], ["Affinite_Miroy_plus3", false], ["Avoir_Vu_Clement_Dortoir_Chapitre1", false], ["Avoir_ParleAvec_Clement_Dortoir_Chapitre1", false], ["Affinite_Clement_moins3", false], ["Affinite_Clement_moins2", false], ["Affinite_Clement_moins1", false], ["Affinite_Clement_plus1", false], ["Affinite_Clement_plus2", false], ["Affinite_Clement_plus3", false], ["Avoir_Vu_Wakiza_Parc_Chapitre0", false], ["Avoir_ParleAvec_Wakiza_Parc_Chapitre0", false], ["Affinite_Wakiza_moins3", false], ["Affinite_Wakiza_moins2", false], ["Affinite_Wakiza_moins1", false], ["Affinite_Wakiza_plus1", false], ["Affinite_Wakiza_plus2", false], ["Affinite_Wakiza_plus3", false],["Avoir_Vu_Krom_Cuisine_Chapitre2", false], ["Avoir_ParleAvec_Krom_Cuisine_Chapitre2", false], ["Affinite_Krom_moins3", false], ["Affinite_Krom_moins2", false], ["Affinite_Krom_moins1", false], ["Affinite_Krom_plus1", false], ["Affinite_Krom_plus2", false], ["Affinite_Krom_plus3", false], ["Avoir_Vu_LesBlattes_Salon_Chapitre2", false], ["Avoir_ParleAvec_LesBlattes_Salon_Chapitre2", false], ["Affinite_LesBlattes_moins3", false], ["Affinite_LesBlattes_moins2", false], ["Affinite_LesBlattes_moins1", false], ["Affinite_LesBlattes_plus1", false], ["Affinite_LesBlattes_plus2", false], ["Affinite_LesBlattes_plus3", false], ["Avoir_Vu_Cray_Observatoire_Chapitre0", false], ["Avoir_ParleAvec_Cray_Observatoire_Chapitre0", false], ["Affinite_Cray_moins3", false], ["Affinite_Cray_moins2", false], ["Affinite_Cray_moins1", false], ["Affinite_Cray_plus1", false], ["Affinite_Cray_plus2", false], ["Affinite_Cray_plus3", false], ["Avoir_Vu_ADJ_Piscine_Chapitre5", false], ["Avoir_ParleAvec_ADJ_Piscine_Chapitre5", false], ["Affinite_ADJ_moins3", false], ["Affinite_ADJ_moins2", false], ["Affinite_ADJ_moins1", false], ["Affinite_ADJ_plus1", false], ["Affinite_ADJ_plus2", false], ["Affinite_ADJ_plus3", false],["Avoir_Vu_Krom_Cuisine_Chapitre2", false], ["Avoir_ParleAvec_Krom_Cuisine_Chapitre2", false], ["Affinite_Krom_moins3", false], ["Affinite_Krom_moins2", false], ["Affinite_Krom_moins1", false], ["Affinite_Krom_plus1", false], ["Affinite_Krom_plus2", false], ["Affinite_Krom_plus3", false], ["Avoir_Vu_LesBlattes_Salon_Chapitre2", false], ["Avoir_ParleAvec_LesBlattes_Salon_Chapitre2", false], ["Affinite_LesBlattes_moins3", false], ["Affinite_LesBlattes_moins2", false], ["Affinite_LesBlattes_moins1", false], ["Affinite_LesBlattes_plus1", false], ["Affinite_LesBlattes_plus2", false], ["Affinite_LesBlattes_plus3", false], ["Avoir_Vu_Cray_Observatoire_Chapitre0", false], ["Avoir_ParleAvec_Cray_Observatoire_Chapitre0", false], ["Affinite_Cray_moins3", false], ["Affinite_Cray_moins2", false], ["Affinite_Cray_moins1", false], ["Affinite_Cray_plus1", false], ["Affinite_Cray_plus2", false], ["Affinite_Cray_plus3", false], ["Avoir_Vu_ADJ_Piscine_Chapitre5", false], ["Avoir_ParleAvec_ADJ_Piscine_Chapitre5", false], ["Affinite_ADJ_moins3", false], ["Affinite_ADJ_moins2", false], ["Affinite_ADJ_moins1", false], ["Affinite_ADJ_plus1", false], ["Affinite_ADJ_plus2", false], ["Affinite_ADJ_plus3", false],["Avoir_Vu_Kooldesource_Chapitre1_Dortoir", false],["Kooldesource_affinite_plus1", false],["Objet_Brouette_Kooldesource", false],["Kooldesource_affinite_moins3", false],["Kooldesource_affinite_moins2", false],["Kooldesource_affinite_moins1", false],["Kooldesource_affinite_plus1", false],["Kooldesource_affinite_plus2", false],["Kooldesource_affinite_plus3", false],["Avoir_Vu_Kooldesource_Chapitre4_Dancefloor", false],["Date_Kooldesource", false],["Avoir_Vu_Kooldesource_Chapitre3_Piscine", false],["Aguk_affinite_moins3", false],["Aguk_affinite_moins2", false],["Aguk_affinite_moins1", false],["Aguk_affinite_plus1", false],["Aguk_affinite_plus2", false],["Aguk_affinite_plus3", false],["Avoir_Vu_Aguk_Chapitre1_Dortoir", false],["objet_fromage", false],["Avoir_Vu_Aguk_Chapitre2_SalleGaming", false],["objet_chapeau_grenouille", false],["Avoir_Vu_Aguk_Chapitre3_Rooftop", false],["ciel_etoile", false],["Amitie_Aguk", false],["Avoir_Vu_Aguk_Chapitre4_Dancefloor", false],["Avoir_Danse_avec_Aguk", false],["Avoir_Vu_Aguk_Chapitre6_FinDeSoiree", false],["Clement_Envie_action", false],["Vouloir_sortir_avec_Clement", false],["Avoir_Vu_Clement_Chapitre3_CabaneArbre", false],["Avoir_Vu_Kooldesource_Chapitre3_Salon", false],["Avoir_Vu_Kooldesource_Chapitre3_Piscine", false],["Avoir_Vu_Kooldesource_Chapitre4_Dancefloor", false],["Avoir_Vu_Kooldesource_Chapitre1_Dortoir", false],["Objet_Costume_Licorne", false],["Branche_LesBlattes_Chapitre2_Cuisine", false],["Affinite_Lovetand_moins3", false],["Affinite_Lovetand_moins2", false],["Affinite_Lovetand_moins1", false],["Affinite_Lovetand_plus1", false],["Affinite_Lovetand_plus2", false],["Affinite_Lovetand_plus3", false],["Lovetand_Questionnaire_Rate", false],["Lovetand_Questionnaire_Reussi", false],["22_Projet_Danse_Sereil_1_Ririsson_Fait", false],["22_Projet_Danse_Sereil_1_Orygamy_Fait", false],["Avoir_Date_Wakiza", false],["AvoirVu_Wakiza_Chapitre4_Bar", false],["Avoir_Vu_Cray_Chapitre3_Hall", false],["AVoir_Vu_Cray_Chapitre0_Observatoire", false],["Avoir_Vu_Lou_Lubie_Bibliotheque_Chapitre2", false],["Avoir_Vu_Lou_Lubie_Bibliotheque_Chapitre3", false],["Avoir_Vu_HadH_Chapitre3_Rooftop", false],["Avoir_Vu_HadH_Ch4_Buffet", false],["Avoir_Vu_ADJ_Ch5_Terrasse", false],["Affinite_HadH_plus1", false],["Affinite_HadH_plus2", false],["Affinite_Lou_plus1", false],["Discours_intro_merci", false],["Discours_intro_equipe", false],["Discours_intro_geniale", false],["Discours_intro_soulee", false],["Affinite_HadH_moins1", false],["Affinite_HadH_plus3", false],["Affinite_Lou_plus2", false],["Discours_conclusion_cinema", false],["Discours_conclusion_longtemps", false],["Discours_conclusion_japon", false],["Discours_conclusion_fermeture", false],["Affinite_HadH_plus4", false],["Affinite_HadH_plus3", false],["Bandeau_sur_les_yeux", false],["Avoir_vu_Perceneige_Salon_Chapitre2_Matin", false],["Avoir_Vu_HadH_Buffet_Chapitre4", false],["AVoir_Vu_Cray_Chapitre0_Observatoire", false],["Avoir_Vu_Ririsson_Orygamy_Chapitre3_Hall", false],["Avoir_Vu_Orygamy_Chapitre3_Hall", false],["Avoir_Vu_Ririsson_Chapitre3_Hall", false],["Avoir_Vu_ADJ_Midi", false],["Avoir_vu_Paul_PetitDej_Salon_Chapitre2", false],["Avoir_Vu_Paul_Chapitre1_Cuisine", false],["Reveil_Dortoir1_Gauche", false],["Reveil_Dortoir2_Droite", false],["Aguk_Parle_Dans_Son_Sommeil", false],["Aguk_Coup_De_pied_Sommeil", false],["Aguk_Rassure_Sommeil", false],["Appel_A_table_Repas_Soiree", false],["Objet_BouteilleVin", false],["Objet_CouteauCuisine", false],["Objet_LivreDeRecettes", false],["Objet_FeuillesEucalyptus", false],["Objet_RoseBoutonniere", false],["Objet_MorceauDeFromage", false],["Avoir_Vu_Rodklover_Et_Izaro_Jardin_Chapitre4_ApresMidi", false],["Avoir_Ecoute_Rodklover_Et_Izaro_Jardin_Chapitre4_ApresMidi", false],["Avoir_Vu_Rodklover_Et_Izaro_Roseraie_Chapitre4_ApresMidi", false],["18_Paul_Chapitre_affinite_moins_1", false],["Objet_MorceauDeFromage", false],["18_Paul_Chapitre_affinite_plus_1", false],["Avoir_Voulu_Visiter_Backrooms", false],["Aider_Barbecue", false],["Avoir_Vu_Sereil_Plage_Jour", false],["Aguk_Mort", false],["Avoir_Vu_Elo_Salle_De_Gaming_Chapitre4_ApresMidi", false],["Avoir_Vu_Clement_Voyage_Temporel", false],["Klariss_Question_tutoiement", false],["Bracelet_DonneASereil", false],["Entree_Branche_Klariss_Salle_De_Gaming_Chapitre2_Matin", false],["Avoir_Vu_Ja_Pix_Chapitre1", false],["RDV_Pris_Ja_Pix_Chapitre1_Vers_Cabane_Chapitre3", false],["Avoir_Vu_Ja_Pix_Chapitre3_CabaneArbre", false],["Avoir_Vu_Ja_Pix_Chapitre3_CabaneArbre", false],["Demande_Ja_Pix_Objet_LivreLovetand", false],["RDV_Pris_Ja_Pix_Chapitre2_Vers_Cabane_Chapitre3", false],["Objet_Chaussettes_Motif_Citrons_Ja_Pix", false],["Avoir_Lu_Lettre_Ja_Pix_Chapitre3_Salle_De_Gaming", false],["Avoir_Vu_Ja_Pix_Chapitre6_Dancefloor", false],["RDV_Ja_Pix_Vers_Dancefloor_Soiree", false]]		
+				"consequence": [["Objet_BouquetDeFleurs", false],["Objet_Broche", false],["Objet_Marmite", false],["Reveil_Dortoir1_Gauche", false],["Reveil_Dortoir2_Droite", false],["Avoir_Vu_Elo_Dortoir_Chapitre1", false],["AvoirVu_Wakiza_Chapitre0_Soir", false],["Avoir_vu_Ccrazyie_dortoir_Chapitre1", false],["Avoir_vu_Ccrazyie_Salon_Chapitre2_Matin", false],["RDV_Pris_avec_Prunelle_pour_Jardin_Chapitre3", false], ["Bracelet_DonneABlatte", false], ["Avoir_Vu_Prunelle_Jardin_Chapitre3", false],["Objet_rateau_pris", false],["Avoir_Vu_Elo_Jardin_Chapitre4_ApresMidi", false],["Avoir_Vu_Elo_Hall_Chapitre3_Midi", false],["RDV_Pris_Prunelle_pour_Bar_Chapitre4", false],["Avoir_Vu_Lovetand_Ch3_Piscine", false],["Avoir_Vu_Lovetand_Ch2_Bibliotheque", false],["RDV_Pris_Clement_pour_Buffet", false],["Clement_date_effectue", false],["Avoir_Vu_Adelinette_Buffet_Chapitre4_Soir", false],["Avoir_Vu_Lovetand_Ch4_Buffet", false],["AvoirVu_Wakiza_Chapitre0_Soir", false],["AvoirVu_Wakiza_Chapitre2_Matin", false],["Avoir_Vu_Prunelle_Bibliotheque_Chapitre2", false],["Avoir_Vu_Elo_Hall_Chapitre3_Midi", false], ["Avoir_Vu_Elo_Jardin_Chapitre4_ApresMidi", false],["Avoir_Vu_Elo_Dortoir_Chapitre1", false],["Avoir_Vu_Elo_Hall_Chapitre2_Matin", false],["Avoir_Vu_Adelinette_Dortoir2_Chapitre1_Soir", false],["Affinite_Wakiza_plus2", false],["relation_adj_1", false], ["Danse_Refus_ADJ_Dancefloor", false], ["Danse_Faite_ADJ_Dancefloor", false],["Avoir_vu_Ccrazyie_PetitDejSalon_Chapitre2", false], ["Avoir_ParleAvec_Ccrazyie_Dancefloor_Chapitre4", false],["Objet_BraceletAmitie", false],["AffinitePerceneige_plus1", false],["Affinite_Krom_plus1", false], ["Affinite_Krom_plus2", false], ["Affinite_Krom_plus3", false], ["Affinite_Lovetand_moins3", false], ["Affinite_Lovetand_moins2", false], ["Affinite_Lovetand_moins1", false], ["Affinite_Lovetand_plus1", false], ["Affinite_Lovetand_plus2", false], ["Affinite_Lovetand_plus3", false], ["Avoir_Vu_Lovetand_Ch3_Piscine", false], ["Objet_LivreLovetand", false], ["AffiniteLubien_Prunelle_moins3", false], ["AffiniteLubien_Prunelle_moins2", false], ["AffiniteLubien_Prunelle_moins1", false], ["AffiniteLubien_Prunelle_plus1", false], ["AffiniteLubien_Prunelle_plus2", false], ["AffiniteLubien_Prunelle_plus3", false], ["Reveil_Dortoir1_Gauche", false], ["Reveil_Dortoir2_Droite", false],["Repas_PoissonCitron", false], ["Affinite_Krom_plus2", false], ["Visite_cuisine_Chapitre2", false], ["Avoir_Vu_Lovetand_Ch3_Piscine", false], ["Affinite_Lovetand_moins3", false], ["Affinite_Lovetand_moins2", false], ["Affinite_Lovetand_moins1", false], ["Affinite_Lovetand_plus1", false], ["Affinite_Lovetand_plus2", false], ["Affinite_Lovetand_plus3", false], ["Livre_Lovetand_Rendu", false], ["Objet_LivreLovetand", false], ["Avoir_Vu_Prunelle_Bibliotheque_Chapitre2", false], ["AffiniteLubien_Prunelle_moins3", false], ["AffiniteLubien_Prunelle_moins2", false], ["AffiniteLubien_Prunelle_moins1", false], ["AffiniteLubien_Prunelle_plus1", false], ["AffiniteLubien_Prunelle_plus2", false], ["AffiniteLubien_Prunelle_plus3", false], ["Objet_Potion", false],["Repas_PoissonCitron", false], ["Affinite_Krom_plus2", false], ["Visite_cuisine_Chapitre2", false], ["Avoir_Vu_Lovetand_Ch3_Piscine", false], ["Affinite_Lovetand_moins3", false], ["Affinite_Lovetand_moins2", false], ["Affinite_Lovetand_moins1", false], ["Affinite_Lovetand_plus1", false], ["Affinite_Lovetand_plus2", false], ["Affinite_Lovetand_plus3", false], ["Livre_Lovetand_Rendu", false], ["Objet_LivreLovetand", false], ["Avoir_Vu_Prunelle_Bibliotheque_Chapitre2", false], ["AffiniteLubien_Prunelle_moins3", false], ["AffiniteLubien_Prunelle_moins2", false], ["AffiniteLubien_Prunelle_moins1", false], ["AffiniteLubien_Prunelle_plus1", false], ["AffiniteLubien_Prunelle_plus2", false], ["AffiniteLubien_Prunelle_plus3", false], ["Objet_Potion", false],["Repas_PoissonCitron", false], ["Affinite_Krom_plus2", false], ["Visite_cuisine_Chapitre2", false], ["Avoir_Vu_Lovetand_Ch3_Piscine", false], ["Affinite_Lovetand_moins3", false], ["Affinite_Lovetand_moins2", false], ["Affinite_Lovetand_moins1", false], ["Affinite_Lovetand_plus1", false], ["Affinite_Lovetand_plus2", false], ["Affinite_Lovetand_plus3", false], ["Livre_Lovetand_Rendu", false], ["Objet_LivreLovetand", false], ["Avoir_Vu_Prunelle_Bibliotheque_Chapitre2", false], ["AffiniteLubien_Prunelle_moins3", false], ["AffiniteLubien_Prunelle_moins2", false], ["AffiniteLubien_Prunelle_moins1", false], ["AffiniteLubien_Prunelle_plus1", false], ["AffiniteLubien_Prunelle_plus2", false], ["AffiniteLubien_Prunelle_plus3", false], ["Objet_Potion", false],["Repas_PoissonCitron", false], ["Affinite_Krom_plus2", false], ["Visite_cuisine_Chapitre2", false], ["Avoir_Vu_Lovetand_Ch3_Piscine", false], ["Affinite_Lovetand_moins3", false], ["Affinite_Lovetand_moins2", false], ["Affinite_Lovetand_moins1", false], ["Affinite_Lovetand_plus1", false], ["Affinite_Lovetand_plus2", false], ["Affinite_Lovetand_plus3", false], ["Livre_Lovetand_Rendu", false], ["Objet_LivreLovetand", false], ["Avoir_Vu_Prunelle_Bibliotheque_Chapitre2", false], ["AffiniteLubien_Prunelle_moins3", false], ["AffiniteLubien_Prunelle_moins2", false], ["AffiniteLubien_Prunelle_moins1", false], ["AffiniteLubien_Prunelle_plus1", false], ["AffiniteLubien_Prunelle_plus2", false], ["AffiniteLubien_Prunelle_plus3", false], ["Objet_Potion", false],["Repas_PoissonCitron", false], ["Affinite_Krom_plus2", false], ["Visite_cuisine_Chapitre2", false], ["Avoir_Vu_Lovetand_Ch3_Piscine", false], ["Affinite_Lovetand_moins3", false], ["Affinite_Lovetand_moins2", false], ["Affinite_Lovetand_moins1", false], ["Affinite_Lovetand_plus1", false], ["Affinite_Lovetand_plus2", false], ["Affinite_Lovetand_plus3", false], ["Livre_Lovetand_Rendu", false], ["Objet_LivreLovetand", false], ["Avoir_Vu_Prunelle_Bibliotheque_Chapitre2", false], ["AffiniteLubien_Prunelle_moins3", false], ["AffiniteLubien_Prunelle_moins2", false], ["AffiniteLubien_Prunelle_moins1", false], ["AffiniteLubien_Prunelle_plus1", false], ["AffiniteLubien_Prunelle_plus2", false], ["AffiniteLubien_Prunelle_plus3", false], ["Objet_Potion", false],["Repas_PoissonCitron", false], ["Affinite_Krom_plus2", false], ["Visite_cuisine_Chapitre2", false], ["Avoir_Vu_Lovetand_Ch3_Piscine", false], ["Affinite_Lovetand_moins3", false], ["Affinite_Lovetand_moins2", false], ["Affinite_Lovetand_moins1", false], ["Affinite_Lovetand_plus1", false], ["Affinite_Lovetand_plus2", false], ["Affinite_Lovetand_plus3", false], ["Livre_Lovetand_Rendu", false], ["Objet_LivreLovetand", false], ["Avoir_Vu_Prunelle_Bibliotheque_Chapitre2", false], ["AffiniteLubien_Prunelle_moins3", false], ["AffiniteLubien_Prunelle_moins2", false], ["AffiniteLubien_Prunelle_moins1", false], ["AffiniteLubien_Prunelle_plus1", false], ["AffiniteLubien_Prunelle_plus2", false], ["AffiniteLubien_Prunelle_plus3", false], ["Objet_Potion", false],["Avoir_Vu_Klariss_Dortoir_Chapitre1", false], ["Avoir_ParleAvec_Klariss_Dortoir_Chapitre1", false], ["Affinite_Klariss_moins3", false], ["Affinite_Klariss_moins2", false], ["Affinite_Klariss_moins1", false], ["Affinite_Klariss_plus1", false], ["Affinite_Klariss_plus2", false], ["Affinite_Klariss_plus3", false], ["Avoir_Vu_Miroy_Dortoir_Chapitre1", false], ["Avoir_ParleAvec_Miroy_Dortoir_Chapitre1", false], ["Affinite_Miroy_moins3", false], ["Affinite_Miroy_moins2", false], ["Affinite_Miroy_moins1", false], ["Affinite_Miroy_plus1", false], ["Affinite_Miroy_plus2", false], ["Affinite_Miroy_plus3", false], ["Avoir_Vu_Clement_Dortoir_Chapitre1", false], ["Avoir_ParleAvec_Clement_Dortoir_Chapitre1", false], ["Affinite_Clement_moins3", false], ["Affinite_Clement_moins2", false], ["Affinite_Clement_moins1", false], ["Affinite_Clement_plus1", false], ["Affinite_Clement_plus2", false], ["Affinite_Clement_plus3", false], ["Avoir_Vu_Wakiza_Parc_Chapitre0", false], ["Avoir_ParleAvec_Wakiza_Parc_Chapitre0", false], ["Affinite_Wakiza_moins3", false], ["Affinite_Wakiza_moins2", false], ["Affinite_Wakiza_moins1", false], ["Affinite_Wakiza_plus1", false], ["Affinite_Wakiza_plus2", false], ["Affinite_Wakiza_plus3", false],["Avoir_Vu_Krom_Cuisine_Chapitre2", false], ["Avoir_ParleAvec_Krom_Cuisine_Chapitre2", false], ["Affinite_Krom_moins3", false], ["Affinite_Krom_moins2", false], ["Affinite_Krom_moins1", false], ["Affinite_Krom_plus1", false], ["Affinite_Krom_plus2", false], ["Affinite_Krom_plus3", false], ["Avoir_Vu_LesBlattes_Salon_Chapitre2", false], ["Avoir_ParleAvec_LesBlattes_Salon_Chapitre2", false], ["Affinite_LesBlattes_moins3", false], ["Affinite_LesBlattes_moins2", false], ["Affinite_LesBlattes_moins1", false], ["Affinite_LesBlattes_plus1", false], ["Affinite_LesBlattes_plus2", false], ["Affinite_LesBlattes_plus3", false], ["Avoir_Vu_Cray_Observatoire_Chapitre0", false], ["Avoir_ParleAvec_Cray_Observatoire_Chapitre0", false], ["Affinite_Cray_moins3", false], ["Affinite_Cray_moins2", false], ["Affinite_Cray_moins1", false], ["Affinite_Cray_plus1", false], ["Affinite_Cray_plus2", false], ["Affinite_Cray_plus3", false], ["Avoir_Vu_ADJ_Piscine_Chapitre5", false], ["Avoir_ParleAvec_ADJ_Piscine_Chapitre5", false], ["Affinite_ADJ_moins3", false], ["Affinite_ADJ_moins2", false], ["Affinite_ADJ_moins1", false], ["Affinite_ADJ_plus1", false], ["Affinite_ADJ_plus2", false], ["Affinite_ADJ_plus3", false],["Avoir_Vu_Krom_Cuisine_Chapitre2", false], ["Avoir_ParleAvec_Krom_Cuisine_Chapitre2", false], ["Affinite_Krom_moins3", false], ["Affinite_Krom_moins2", false], ["Affinite_Krom_moins1", false], ["Affinite_Krom_plus1", false], ["Affinite_Krom_plus2", false], ["Affinite_Krom_plus3", false], ["Avoir_Vu_LesBlattes_Salon_Chapitre2", false], ["Avoir_ParleAvec_LesBlattes_Salon_Chapitre2", false], ["Affinite_LesBlattes_moins3", false], ["Affinite_LesBlattes_moins2", false], ["Affinite_LesBlattes_moins1", false], ["Affinite_LesBlattes_plus1", false], ["Affinite_LesBlattes_plus2", false], ["Affinite_LesBlattes_plus3", false], ["Avoir_Vu_Cray_Observatoire_Chapitre0", false], ["Avoir_ParleAvec_Cray_Observatoire_Chapitre0", false], ["Affinite_Cray_moins3", false], ["Affinite_Cray_moins2", false], ["Affinite_Cray_moins1", false], ["Affinite_Cray_plus1", false], ["Affinite_Cray_plus2", false], ["Affinite_Cray_plus3", false], ["Avoir_Vu_ADJ_Piscine_Chapitre5", false], ["Avoir_ParleAvec_ADJ_Piscine_Chapitre5", false], ["Affinite_ADJ_moins3", false], ["Affinite_ADJ_moins2", false], ["Affinite_ADJ_moins1", false], ["Affinite_ADJ_plus1", false], ["Affinite_ADJ_plus2", false], ["Affinite_ADJ_plus3", false],["Avoir_Vu_Kooldesource_Chapitre1_Dortoir", false],["Kooldesource_affinite_plus1", false],["Objet_Brouette_Kooldesource", false],["Kooldesource_affinite_moins3", false],["Kooldesource_affinite_moins2", false],["Kooldesource_affinite_moins1", false],["Kooldesource_affinite_plus1", false],["Kooldesource_affinite_plus2", false],["Kooldesource_affinite_plus3", false],["Avoir_Vu_Kooldesource_Chapitre4_Dancefloor", false],["Date_Kooldesource", false],["Avoir_Vu_Kooldesource_Chapitre3_Piscine", false],["Aguk_affinite_moins3", false],["Aguk_affinite_moins2", false],["Aguk_affinite_moins1", false],["Aguk_affinite_plus1", false],["Aguk_affinite_plus2", false],["Aguk_affinite_plus3", false],["Avoir_Vu_Aguk_Chapitre1_Dortoir", false],["objet_fromage", false],["Avoir_Vu_Aguk_Chapitre2_SalleGaming", false],["objet_chapeau_grenouille", false],["Avoir_Vu_Aguk_Chapitre3_Rooftop", false],["ciel_etoile", false],["Amitie_Aguk", false],["Avoir_Vu_Aguk_Chapitre4_Dancefloor", false],["Avoir_Danse_avec_Aguk", false],["Avoir_Vu_Aguk_Chapitre6_FinDeSoiree", false],["Clement_Envie_action", false],["Vouloir_sortir_avec_Clement", false],["Avoir_Vu_Clement_Chapitre3_CabaneArbre", false],["Avoir_Vu_Kooldesource_Chapitre3_Salon", false],["Avoir_Vu_Kooldesource_Chapitre3_Piscine", false],["Avoir_Vu_Kooldesource_Chapitre4_Dancefloor", false],["Avoir_Vu_Kooldesource_Chapitre1_Dortoir", false],["Objet_Costume_Licorne", false],["Branche_LesBlattes_Chapitre2_Cuisine", false],["Affinite_Lovetand_moins3", false],["Affinite_Lovetand_moins2", false],["Affinite_Lovetand_moins1", false],["Affinite_Lovetand_plus1", false],["Affinite_Lovetand_plus2", false],["Affinite_Lovetand_plus3", false],["Lovetand_Questionnaire_Rate", false],["Lovetand_Questionnaire_Reussi", false],["22_Projet_Danse_Sereil_1_Ririsson_Fait", false],["22_Projet_Danse_Sereil_1_Orygamy_Fait", false],["Avoir_Date_Wakiza", false],["AvoirVu_Wakiza_Chapitre4_Bar", false],["Avoir_Vu_Cray_Chapitre3_Hall", false],["AVoir_Vu_Cray_Chapitre0_Observatoire", false],["Avoir_Vu_Lou_Lubie_Bibliotheque_Chapitre2", false],["Avoir_Vu_Lou_Lubie_Bibliotheque_Chapitre3", false],["Avoir_Vu_HadH_Chapitre3_Rooftop", false],["Avoir_Vu_HadH_Ch4_Buffet", false],["Avoir_Vu_ADJ_Ch5_Terrasse", false],["Affinite_HadH_plus1", false],["Affinite_HadH_plus2", false],["Affinite_Lou_plus1", false],["Discours_intro_merci", false],["Discours_intro_equipe", false],["Discours_intro_geniale", false],["Discours_intro_soulee", false],["Affinite_HadH_moins1", false],["Affinite_HadH_plus3", false],["Affinite_Lou_plus2", false],["Discours_conclusion_cinema", false],["Discours_conclusion_longtemps", false],["Discours_conclusion_japon", false],["Discours_conclusion_fermeture", false],["Affinite_HadH_plus4", false],["Affinite_HadH_plus3", false],["Bandeau_sur_les_yeux", false],["Avoir_vu_Perceneige_Salon_Chapitre2_Matin", false],["Avoir_Vu_HadH_Buffet_Chapitre4", false],["AVoir_Vu_Cray_Chapitre0_Observatoire", false],["Avoir_Vu_Ririsson_Orygamy_Chapitre3_Hall", false],["Avoir_Vu_Orygamy_Chapitre3_Hall", false],["Avoir_Vu_Ririsson_Chapitre3_Hall", false],["Avoir_Vu_ADJ_Midi", false],["Avoir_vu_Paul_PetitDej_Salon_Chapitre2", false],["Avoir_Vu_Paul_Chapitre1_Cuisine", false],["Reveil_Dortoir1_Gauche", false],["Reveil_Dortoir2_Droite", false],["Aguk_Parle_Dans_Son_Sommeil", false],["Aguk_Coup_De_pied_Sommeil", false],["Aguk_Rassure_Sommeil", false],["Appel_A_table_Repas_Soiree", false],["Objet_BouteilleVin", false],["Objet_CouteauCuisine", false],["Objet_LivreDeRecettes", false],["Objet_FeuillesEucalyptus", false],["Objet_RoseBoutonniere", false],["Objet_MorceauDeFromage", false],["Avoir_Vu_Rodklover_Et_Izaro_Jardin_Chapitre4_ApresMidi", false],["Avoir_Ecoute_Rodklover_Et_Izaro_Jardin_Chapitre4_ApresMidi", false],["Avoir_Vu_Rodklover_Et_Izaro_Roseraie_Chapitre4_ApresMidi", false],["18_Paul_Chapitre_affinite_moins_1", false],["Objet_MorceauDeFromage", false],["18_Paul_Chapitre_affinite_plus_1", false],["Avoir_Voulu_Visiter_Backrooms", false],["Aider_Barbecue", false],["Avoir_Vu_Sereil_Plage_Jour", false],["Aguk_Mort", false],["Avoir_Vu_Elo_Salle_De_Gaming_Chapitre4_ApresMidi", false],["Avoir_Vu_Clement_Voyage_Temporel", false],["Klariss_Question_tutoiement", false],["Bracelet_DonneASereil", false],["Entree_Branche_Klariss_Salle_De_Gaming_Chapitre2_Matin", false],["Avoir_Vu_Ja_Pix_Chapitre1", false],["RDV_Pris_Ja_Pix_Chapitre1_Vers_Cabane_Chapitre3", false],["Avoir_Vu_Ja_Pix_Chapitre3_CabaneArbre", false],["Avoir_Vu_Ja_Pix_Chapitre3_CabaneArbre", false],["Demande_Ja_Pix_Objet_LivreLovetand", false],["RDV_Pris_Ja_Pix_Chapitre2_Vers_Cabane_Chapitre3", false],["Objet_Chaussettes_Motif_Citrons_Ja_Pix", false],["Avoir_Lu_Lettre_Ja_Pix_Chapitre3_Salle_De_Gaming", false],["Avoir_Vu_Ja_Pix_Chapitre6_Dancefloor", false],["RDV_Ja_Pix_Vers_Dancefloor_Soiree", false],["Avoir_Date_Sereil", false],["Avoir_Survecu_Fin_Du_Monde", false],["Verre_Brise", false],["Joueur_Tue_Par_Adelinette", false],["Date_Adelinette", false],["Partir_Vivre_En_Lozere", false],["Liberer_Table_Verte", false],["Avoir_Vu_ADJ_Dans_Costume_Licorne", false],["Voir_Aguk_Sourire", false],["Avoir_Regarde_Film_Avec_Aguk", false],["Etre_Alle_Sur_Toit_Cabane", false],["Avoir_Provoque_Paradoxe_Temporel_Avec_Clement", false],["Avoir_Donne_Feuilles_Eucalyptus_A_Elo", false],["Avoir_Donne_BouquetDeFleurs_A_Lou", false],["Avoir_Frotte_Lampe_Genie", false],["Avoir_Regarde_Powerpoint", false]]		
 			}]
 		},{
 		  "identifiant": "0_0_1_1",
@@ -1126,7 +1126,7 @@
 		"identifiant": "5_0_7_4_1",
 		"image": "backgrounds/Parc_Jour.jpg",
 		"perso": "Parc_JOUR/Parc_Jour_placements.png",
-		"texte": "<p>Tandis que vous essayez de suivre l'origine du bruit, vous entendez la voix d’un lubien qui appelle les convives à table. Au même moment, vos yeux se posent sur des petites oreilles blanches entre les feuillages. Vous êtes certaine de les avoir déjà vues. Ce sont celles de Elo la koala.<p></p>",
+		"texte": "<p>Tandis que vous essayez de suivre l'origine du bruit, vous entendez la voix d’un lubien qui appelle les convives à table. Au même moment, vos yeux se posent sur des petites oreilles blanches entre les feuillages. Vous êtes certaine de les avoir déjà vues. Ce sont celles de Elo le koala.<p></p>",
 		"options": [{
 			"question": "Interpeler Elo.",
 			"vers": "11_Elo_Chapitre_4_1",
@@ -2594,6 +2594,21 @@
 			"condition": [["Avoir_Date_Wakiza", true]],
 			"consequence": []		
 		},{
+			"question": "Avoir date Sereil.",
+			"vers": "Fin_Classique",
+			"condition": [["Avoir_Date_Sereil", true]],
+			"consequence": []		
+		},{
+			"question": "Avoir date Adelinette.",
+			"vers": "Fin_Classique",
+			"condition": [["Date_Adelinette", true]],
+			"consequence": []		
+		},{
+			"question": "Partir s'installer en Lozère.",
+			"vers": "Fin_Classique",
+			"condition": [["Partir_Vivre_En_Lozere", true]],
+			"consequence": []		
+		},{
 			"question": "Avoir vu tous.tes les lubien.nes. Partout.",
 			"vers": "Fin_Classique",
 			"condition": [["Avoir_Vu_Lovetand_Ch3_Piscine", true],["Avoir_Vu_Prunelle_Bibliotheque_Chapitre2", true],["Avoir_Vu_Lovetand_Ch3_Piscine", true],["Avoir_Vu_Prunelle_Bibliotheque_Chapitre2", true],["Avoir_Vu_Lovetand_Ch3_Piscine", true],["Avoir_Vu_Klariss_Dortoir_Chapitre1", true],["Avoir_ParleAvec_Klariss_Dortoir_Chapitre1", true],["Avoir_Vu_Miroy_Dortoir_Chapitre1", true],["Avoir_Vu_Clement_Dortoir_Chapitre1", true],["Avoir_ParleAvec_Clement_Dortoir_Chapitre1", true],["Avoir_Vu_Wakiza_Parc_Chapitre0", true],["Avoir_Vu_Krom_Cuisine_Chapitre2", true],["Avoir_Vu_LesBlattes_Salon_Chapitre2", true],["Avoir_Vu_Kooldesource_Chapitre4_Dancefloor", true],["Avoir_Vu_Kooldesource_Chapitre3_Piscine", true],["Avoir_Vu_Aguk_Chapitre1_Dortoir", true],["Avoir_Vu_Aguk_Chapitre2_SalleGaming", true],["Avoir_Vu_Aguk_Chapitre3_Rooftop", true],["Avoir_Vu_Clement_Chapitre3_CabaneArbre", true],["AvoirVu_Wakiza_Chapitre4_Bar", true],["Avoir_Vu_Lou_Lubie_Bibliotheque_Chapitre2", true],["Avoir_Vu_Lou_Lubie_Bibliotheque_Chapitre3", true],["Avoir_Vu_HadH_Chapitre3_Rooftop", true],["Avoir_Vu_HadH_Ch4_Buffet", true],["Avoir_vu_Perceneige_Salon_Chapitre2_Matin", true],["Avoir_Vu_Ririsson_Orygamy_Chapitre3_Hall", true],["Avoir_Vu_Orygamy_Chapitre3_Hall", true],["Avoir_Vu_Ririsson_Chapitre3_Hall", true],["Avoir_Vu_ADJ_Midi", true],["Avoir_vu_Paul_PetitDej_Salon_Chapitre2", true],["Avoir_Vu_Paul_Chapitre1_Cuisine", true],["Avoir_Vu_Rodklover_Et_Izaro_Jardin_Chapitre4_ApresMidi", true],["Avoir_Ecoute_Rodklover_Et_Izaro_Jardin_Chapitre4_ApresMidi", true],["Avoir_Vu_Rodklover_Et_Izaro_Roseraie_Chapitre4_ApresMidi", true],["Avoir_Vu_Sereil_Plage_Jour", true],["Avoir_Vu_Elo_Salle_De_Gaming_Chapitre4_ApresMidi", true]],
@@ -2604,14 +2619,94 @@
 			"condition": [["Objet_BouquetDeFleurs", true],["Objet_Broche", true],["Objet_Marmite", true],["Objet_rateau_pris", true],["Objet_BraceletAmitie", true],["Objet_LivreLovetand", true],["Objet_Potion", true],["Objet_Brouette_Kooldesource", true],["objet_fromage", true],["objet_chapeau_grenouille", true],["Objet_Costume_Licorne", true],["Objet_BouteilleVin", true],["Objet_CouteauCuisine", true],["Objet_LivreDeRecettes", true],["Objet_FeuillesEucalyptus", true],["Objet_RoseBoutonniere", true],["Objet_MorceauDeFromage", true]],
 			"consequence": []		
 		},{
+			"question": "Avoir donné le bouquet de fleurs à Lou.",
+			"vers": "Fin_Classique",
+			"condition": [["Avoir_Donne_BouquetDeFleurs_A_Lou", true]],
+			"consequence": []		
+		},{
+			"question": "Avoir surpris Paul en train de vider le frigo.",
+			"vers": "Fin_Classique",
+			"condition": [["Avoir_Vu_Paul_Chapitre1_Cuisine", true]],
+			"consequence": []		
+		},{
+			"question": "Avoir donné des feuilles d'eucalyptus à Elo.",
+			"vers": "Fin_Classique",
+			"condition": [["Avoir_Donne_Feuilles_Eucalyptus_A_Elo", true]],
+			"consequence": []		
+		},{
+			"question": "Faire le repas préféré de Krom.",
+			"vers": "Fin_Classique",
+			"condition": [["Repas_SanglierALaBiere", true]],
+			"consequence": []		
+		},{
 			"question": "Avoir tué au moins une personne.",
 			"vers": "Fin_Classique",
 			"condition": [["Aguk_Mort", true]],
 			"consequence": []		
 		},{
+			"question": "Faire sourire Aguk.",
+			"vers": "Fin_Classique",
+			"condition": [["Voir_Aguk_Sourire", true]],
+			"consequence": []		
+		},{
+			"question": "Avoir regardé un film avec Aguk.",
+			"vers": "Fin_Classique",
+			"condition": [["Avoir_Regarde_Film_Avec_Aguk", true]],
+			"consequence": []		
+		},{
+			"question": "Voir un powerpoint.",
+			"vers": "Fin_Classique",
+			"condition": [["Avoir_Regarde_Powerpoint", true]],
+			"consequence": []		
+		},{
+			"question": "Frotter la lampe d'un génie.",
+			"vers": "Fin_Classique",
+			"condition": [["Avoir_Frotte_Lampe_Genie", true]],
+			"consequence": []		
+		},{
+			"question": "Avoir brisé un verre.",
+			"vers": "Fin_Classique",
+			"condition": [["Verre_Brise", true]],
+			"consequence": []		
+		},{
+			"question": "Se faire tuer par Adelinette.",
+			"vers": "Fin_Classique",
+			"condition": [["Joueur_Tue_Par_Adelinette", true]],
+			"consequence": []		
+		},{
+			"question": "Avoir libéré la table verte.",
+			"vers": "Fin_Classique",
+			"condition": [["Liberer_Table_Verte", true]],
+			"consequence": []		
+		},{
+			"question": "Avoir vu ADJ en costume de licorne.",
+			"vers": "Fin_Classique",
+			"condition": [["Avoir_Vu_ADJ_Dans_Costume_Licorne", true]],
+			"consequence": []		
+		},{
+			"question": "Aller dans la cabane.",
+			"vers": "Fin_Classique",
+			"condition": [["Avoir_Vu_Clement_Chapitre3_CabaneArbre", true]],
+			"consequence": []		
+		},{
+			"question": "Aller sur le toit de la cabane.",
+			"vers": "Fin_Classique",
+			"condition": [["Etre_Alle_Sur_Toit_Cabane", true]],
+			"consequence": []		
+		},{
+			"question": "Provoquer un paradoxe temporel",
+			"vers": "Fin_Classique",
+			"condition": [["Avoir_Provoque_Paradoxe_Temporel_Avec_Clement", true]],
+			"consequence": []		
+		},{
 			"question": "Avoir survécu.e à la fin des temps.",
 			"vers": "Fin_Classique",
-			"condition": [["Avoir_Vu_Clement_Voyage_Temporel", true]],
+			"condition": [["Avoir_Vu_Clement_Voyage_Temporel", true],["Avoir_Survecu_Fin_Du_Monde", false]],
+			"consequence": []		
+		},{
+			"question": "Avoir survécu.e à la fin des temps.",
+			"vers": "Fin_Classique",
+			"condition": [["Avoir_Vu_Clement_Voyage_Temporel", false],["Avoir_Survecu_Fin_Du_Monde", true]],
 			"consequence": []		
 		}]
 	},{
@@ -2724,17 +2819,17 @@
 			"question": "T'es cute !",
 			"vers": "1_ADJ_Chapitre5_1_2_5_nuit",
 			"condition": [],
-			"consequence": [["relation_adj_1", true]]	
+			"consequence": [["relation_adj_1", true],["Avoir_Vu_ADJ_Dans_Costume_Licorne", true]]	
 		},{
 			"question": "C'est pas mal.",
 			"vers": "1_ADJ_Chapitre5_1_4_1",
 			"condition": [],
-			"consequence": []	
+			"consequence": [["Avoir_Vu_ADJ_Dans_Costume_Licorne", true]]	
 		},{
 			"question": "Super, tu peux me le rendre, maintenant, stp ?",
 			"vers": "1_ADJ_Chapitre5_1_3_1_nuit",
 			"condition": [],
-			"consequence": [[]]	
+			"consequence": [["Avoir_Vu_ADJ_Dans_Costume_Licorne", true]]	
 		}]
     },{
 		"identifiant": "1_ADJ_Chapitre5_1_2_5_nuit",
@@ -2760,12 +2855,12 @@
 			"question": "C'est petit mais c'est discret",
 			"vers": "1_ADJ_Chapitre5_1_1_4_nuit",
 			"condition": [],
-			"consequence": []	
+			"consequence": [["Liberer_Table_Verte", true]]	
 		},{
 			"question": "Non mais désolé c'est trop petit pour moi ADJ...",
 			"vers": "5_0_1_18",
 			"condition": [],
-			"consequence": []	
+			"consequence": [["Liberer_Table_Verte", true]]	
 		}]
     },{
 		"identifiant": "1_ADJ_Chapitre5_1_3_1_nuit",
@@ -2872,7 +2967,7 @@
     },{
 		"identifiant": "1_ADJ_Chapitre5_1_1_9_nuit",
 		"image": "backgrounds/ADJ_Buffet_exterieur_MIDI_content_space.jpg",
-		"texte": "<a href='https://www.forum-dessine.fr/projets/la-grande-villa-lalbum'target='_blank'>Play (Ouvre l'album dans un nouvel onglet).</a>",
+		"texte": "<a href='https://www.youtube.com/watch?v=1YGLFvxnqq4'target='_blank'>Play (Ouvre la chanson dans un nouvel onglet).</a>",
 		"options": [{
 			"question": "Continuer",
 			"vers": "1_ADJ_Chapitre5_1_1_10_nuit",
@@ -3129,7 +3224,7 @@
     },{
 		"identifiant": "1_ADJ_Chapitre5_1_1_9",
 		"image": "backgrounds/ADJ_Buffet_exterieur_MIDI_content_space.jpg",
-		"texte": "<p>https://www.youtube.com/watch?v=1YGLFvxnqq4</p>",
+		"texte": "<a href='https://www.youtube.com/watch?v=1YGLFvxnqq4'target='_blank'>Play (Ouvre la chanson dans un nouvel onglet).</a>",
 		"options": [{
 			"question": "Continuer",
 			"vers": "1_ADJ_Chapitre5_1_1_10",
@@ -3337,7 +3432,7 @@
 			"question": "Emprunter l'échelle et aller sur le toit avec Clément",
 			"vers": "2_Clement_Chapitre3_2_1_8",
 			"condition": [["Vouloir_sortir_avec_Clement", true]],
-			"consequence": [["Clement_date_effectue", true]]		
+			"consequence": [["Clement_date_effectue", true],["Etre_Alle_Sur_Toit_Cabane", true]]		
 		}, {
 			  "question": "- Non, attends ! Tu prépares quoi avec tous ces trucs dans le coin ?",
 			  "vers": "2_Clement_Chapitre3_2_1_6",
@@ -3549,7 +3644,7 @@
 			"question": "Suite",
 			"vers": "2_Clement_Chapitre1_2_4_4",
 			"condition": [],
-			"consequence": []		
+			"consequence": [["Avoir_Provoque_Paradoxe_Temporel_Avec_Clement", true]]		
 		}]
     },
 	
@@ -4241,6 +4336,17 @@
 		}]
     },{
 		"identifiant": "3_Klariss_Chapitre1_6_7",
+		"image": "persos/Salle_de_gaming_JOUR/Klariss/2_Salle_de_gaming_Klariss_Powerpoint_7.gif",
+		"perso": "Salle_de_gaming_JOUR/Ecran_Cinema_overlay.png",
+		"texte": "<p>On s'est retrouvé avec environs 20 000 lignes de code ! Pour nous y retrouver et pouvoir traquer les erreurs, Recro nous a développé cette formidable console de déboguage.</p>Avec, on peut naviguer librement dans la narration, cliquer sur les options normalement indisponibles (grisées mais cliquables), faire un retour à l'étape d'avant.</p>Sur la gauche est aussi affichée une synthèse des incohérences présentes dans nos 20 000 lignes.</p>",
+		"options": [{
+			"question": "Poursuivre.",
+			"vers": "3_Klariss_Chapitre1_6_8",
+			"condition": [],
+			"consequence": [["Avoir_Regarde_Powerpoint", true]]		
+		}]
+    },{
+		"identifiant": "3_Klariss_Chapitre1_6_8",
 		"image": "persos/Salle_de_gaming_JOUR/Fauteuil_Cinema_Projecteur_1.png",
 		"perso": "Salle_de_gaming_JOUR/Klariss/Klariss_Cinema_1.png",
 		"texte": "<p>Voilà, c'est grâce à tout ça qu'on peut avoir cette discussion ensemble aujourd'hui. Tu as encore du temps devant toi ?</p>",
@@ -9744,7 +9850,7 @@
 			"question": "Poursuivre.",
 			"vers": "3_Klariss_Chapitre1_7_3_5",
 			"condition": [],
-			"consequence": []		
+			"consequence": [["Avoir_Frotte_Lampe_Genie", true]]		
 		}]
     },{
 		"identifiant": "3_Klariss_Chapitre1_7_3_5",
@@ -13055,7 +13161,7 @@
 			"question": "Ok! <i>Vous donnez les feuilles d'eucalyptus à Elo</i>",
 			"vers": "11_Elo_Chapitre_4_2",
 			"condition": [["Objet_FeuillesEucalyptus", true]],
-			"consequence": [["Avoir_Vu_Elo_Hall_Chapitre2_Matin", true]]		
+			"consequence": [["Avoir_Vu_Elo_Hall_Chapitre2_Matin", true],["Objet_FeuillesEucalyptus", false],["Avoir_Donne_Feuilles_Eucalyptus_A_Elo", true]]		
 		},{
 			"question": "Bon courage…",
 			"vers": "11_Elo_Chapitre_4_3",
@@ -14964,12 +15070,12 @@
 			"question": "Vous vous plaignez du service et pour montrer votre colère, vous cassez un verre.",
 			"vers": "13_Adelinette_Chapitre4_24_6_1",
 			"condition": [["Affinite_Adelinette_moins3", true]],
-			"consequence": [[]]		
+			"consequence": [["Verre_Brise", true]]		
 		},{
 			"question": "Vous vous plaignez du service et pour montrer votre colère, vous cassez un verre.",
 			"vers": "13_Adelinette_Chapitre4_24_6_2",
 			"condition": [["Affinite_Adelinette_moins3", false]],
-			"consequence": []		
+			"consequence": [["Verre_Brise", true]]		
 		},{
 			"question": "Les cocktails tapent un peu. Vous déclarez votre flamme, la bouche pleine, à Adelinette, la préposée au buffet.",
 			"vers": "13_Adelinette_Chapitre4_24_7_1",
@@ -14995,7 +15101,7 @@
 			"question": "Poursuivre.",
 			"vers": "7_Prunelle_Mort_Reboot_Cimetiere_1",
 			"condition": [[]],
-			"consequence": [[]]		
+			"consequence": [["Joueur_Tue_Par_Adelinette", true]]		
 		}]
     },{
 		"identifiant": "13_Adelinette_Chapitre4_24_6_2",
@@ -15033,7 +15139,7 @@
 			"question": "Vous l'embrassez. Puis, sans attendre les discours, vous quittez les lieux ensemble pour ouvrir une fromagerie artisanale en Lozère. Vous filez le parfait amour entouré de chèvres et de prairies fleuries.",
 			"vers": "13_Adelinette_Chapitre4_24_10_1_lozere",
 			"condition": [["MorceauDeFromage_Donne_A_Adelinette", true]],
-			"consequence": [["Date_Adelinette", true]]		
+			"consequence": [["Date_Adelinette", true],["Partir_Vivre_En_Lozere", true]]		
 		}]
     },{
 		"identifiant": "13_Adelinette_Chapitre4_24_11_2",
@@ -15183,8 +15289,7 @@
 		}]
     },{
 		"identifiant": "14_Wakiza_Chapitre0_14_0_5",
-		"image": "backgrounds/Champ_devant_lobservatoire_2_nuit.jpg",
-		"perso": "Champ_de_fourrage_SOIR/Wakiza_Champ_de_fourrage_SOIR_0_Champ_de_fourrage_derriere_observatoire_Wakiza_supris.png",
+		"image": "backgrounds/Observatoire_Nuit.jpg",
 		"texte": "<p><i>Wakiza est interloqué, il te pourchasse.</i> «- Hey mais c’est quoi ces manières!»</p><i>Tu vas à l’observatoire pour restituer la longue-vue.</i><p></p>",
 		"options": [{
 			"question": "Tu caches la longue-vue derrière un meuble.",
@@ -15291,8 +15396,8 @@
 		}]
     },{
 		"identifiant": "14_Wakiza_Chapitre0_14_0_8",
-		"image": "backgrounds/Champ_devant_lobservatoire_2_nuit.jpg",
-		"perso": "Champ_de_fourrage_SOIR/Wakiza_Champ_de_fourrage_SOIR_0_Champ_de_fourrage_derriere_observatoire_Wakiza_supris.png",
+		"image": "backgrounds/Observatoire_Nuit.jpg",
+		"perso": "Observatoire_NUIT/Wakiza_Observatoire_NUIT_fache.png",
 		"texte": "<p><i>Wakiza est très fâché. Il te saisit le bras.Tu sens ses griffes dans ta peau.</i> «-- Où est-elle ?»<p></p>",
 		"options": [{
 			"question": "Tu t’excuses et tu lui indique où elle est.",
@@ -16016,8 +16121,8 @@
 		}, {
 			"question": "Lui donner le bouquet de la part de HadH.",
 			"vers": "15_Hadh_Lou_2_9_1_5",
-			"condition": [["Affinite_HadH_plus1", true]],
-			"consequence": [["Objet_BouquetDeFleurs", false], ["Affinite_HadH_plus1", false], ["Affinite_HadH_plus2", true],["Avoir_Vu_Lou_Lubie_Bibliotheque_Chapitre2", true]]		
+			"condition": [["Affinite_HadH_plus1", true],["Objet_BouquetDeFleurs", true]],
+			"consequence": [["Objet_BouquetDeFleurs", false],["Avoir_Donne_BouquetDeFleurs_A_Lou", true], ["Affinite_HadH_plus1", false], ["Affinite_HadH_plus2", true],["Avoir_Vu_Lou_Lubie_Bibliotheque_Chapitre2", true]]		
 		}, {
 			"question": "Vous lui donnez le bouquet de votre part.",
 			"vers": "15_Hadh_Lou_2_9_2_1",
@@ -17643,7 +17748,7 @@
 			"question": "Profiter du moment.",
 			"vers": "5_0_7_4_2",
 			"condition": [],
-			"consequence": [["ciel_etoile", true],["Amitie_Aguk", true]]
+			"consequence": [["ciel_etoile", true],["Amitie_Aguk", true],["Voir_Aguk_Sourire", true]]
 		}]
     },
 	
@@ -17764,17 +17869,17 @@
 		"identifiant": "19_Aguk_Chapitre2_19_2_2",
 		"image": "backgrounds/SalleDeGaming_Jour.jpg",
 		"perso": "Salle_de_gaming_JOUR/Salle_de_gaming_2/Aguk_Salle_de_gaming_2_regarder_ensemble_fin.png",
-		"texte": "<p>Aguk accepte et vous regardez tous les deux films en passant un bon moment assis l'un à côté de l'autre. À la fin Aguk vous dit: 'C'tait cool, t'as d'bons goûts; j'vais le re-regarder'<p></p>",
+		"texte": "<p>Aguk accepte et vous regardez tous les deux un film en passant un bon moment assis l'un à côté de l'autre. À la fin Aguk vous dit: 'C'tait cool, t'as d'bons goûts; j'vais le re-regarder'<p></p>",
 		"options": [{
 			"question": "Partir à la fin du film",
 			"vers": "19_Aguk_Chapitre2_19_1_6",
 			"condition": [["objet_chapeau_grenouille", true]],
-			"consequence": []
+			"consequence": [["Avoir_Regarde_Film_Avec_Aguk", true]]
 		},{
 			"question": "Partir à la fin du film",
 			"vers": "4_0_10_1_2",
 			"condition": [],
-			"consequence": [["objet_chapeau_grenouille", false]]
+			"consequence": [["objet_chapeau_grenouille", false],["Avoir_Regarde_Film_Avec_Aguk", true]]
 		}]
     },
 	
@@ -18963,12 +19068,12 @@
 },{
 		"identifiant": "22_SEREIL_chapitre5_22_3_6",
 		"image": "persos/Plage_volley_Jour/Sereil/22_SEREIL_chapitre5_22_3_6.jpg",
-		"texte": "<p>Laissant derrière vous la fin du monde, vous débutez votre propre histoire. FIN <3</p>",
+		"texte": "<p>Laissant derrière vous la fin du monde, vous débutez votre propre histoire.</p>",
 		"options": [{
-				"question": "Recommencer la partie.",
-				"vers": "0_0_1_1",
+				"question": "FIN <3",
+				"vers": "Fin_Classique",
 				"condition": [],
-				"consequence": []        
+				"consequence": [["Avoir_Date_Sereil", true],["Avoir_Survecu_Fin_Du_Monde", true]]        
 		}]
 },{
 		"identifiant": "22_SEREIL_chapitre5_22_4",
@@ -19069,7 +19174,7 @@
 			"question": ":)",
 			"vers": "22_Projet_Danse_Sereil_1_Ririsson_2",
 			"condition": [[]],
-			"consequence": [[]]		
+			"consequence": [["22_Projet_Danse_Sereil_1_Ririsson_Fait", true]]		
 		}]
     }, {
 		"identifiant": "22_Projet_Danse_Sereil_1_Ririsson_2",
@@ -19080,7 +19185,7 @@
 			"question": ">u<",
 			"vers": "22_Projet_Danse_Sereil_1_Ririsson_3",
 			"condition": [[]],
-			"consequence": [[]]		
+			"consequence": [["22_Projet_Danse_Sereil_1_Ririsson_Fait", true]]		
 		}]
     },{
 		"identifiant": "22_Projet_Danse_Sereil_1_Ririsson_3",
@@ -19091,7 +19196,7 @@
 			"question": "/(°3°)/",
 			"vers": "22_Projet_Danse_Sereil_1_Ririsson_4",
 			"condition": [[]],
-			"consequence": [[]]		
+			"consequence": [["22_Projet_Danse_Sereil_1_Ririsson_Fait", true]]		
 		}]
     },{
 		"identifiant": "22_Projet_Danse_Sereil_1_Ririsson_4",
@@ -19102,7 +19207,7 @@
 			"question": "^^",
 			"vers": "22_Projet_Danse_Sereil_1_Ririsson_5",
 			"condition": [[]],
-			"consequence": [[]]		
+			"consequence": [["22_Projet_Danse_Sereil_1_Ririsson_Fait", true]]		
 		}]
     },{
 		"identifiant": "22_Projet_Danse_Sereil_1_Ririsson_5",
@@ -19113,7 +19218,7 @@
 			"question": "e_e",
 			"vers": "22_Projet_Danse_Sereil_1_Ririsson_6",
 			"condition": [[]],
-			"consequence": [[]]		
+			"consequence": [["22_Projet_Danse_Sereil_1_Ririsson_Fait", true]]		
 		}]
     },{
 		"identifiant": "22_Projet_Danse_Sereil_1_Ririsson_6",
@@ -19124,7 +19229,7 @@
 			"question": "*_*",
 			"vers": "22_Projet_Danse_Sereil_1_Ririsson_7",
 			"condition": [[]],
-			"consequence": [[]]		
+			"consequence": [["22_Projet_Danse_Sereil_1_Ririsson_Fait", true]]		
 		}]
     },{
 		"identifiant": "22_Projet_Danse_Sereil_1_Ririsson_7",
@@ -19145,7 +19250,7 @@
 			"question": ">w<",
 			"vers": "22_Projet_Danse_Sereil_1_Orygamy_2",
 			"condition": [[]],
-			"consequence": [[]]		
+			"consequence": [["22_Projet_Danse_Sereil_1_Orygamy_Fait", true]]		
 		}]
     },{
 		"identifiant": "22_Projet_Danse_Sereil_1_Orygamy_2",
@@ -19156,7 +19261,7 @@
 			"question": ":D",
 			"vers": "22_Projet_Danse_Sereil_1_Orygamy_3",
 			"condition": [[]],
-			"consequence": [[]]		
+			"consequence": [["22_Projet_Danse_Sereil_1_Orygamy_Fait", true]]		
 		}]
     },{
 		"identifiant": "22_Projet_Danse_Sereil_1_Orygamy_3",
@@ -19192,6 +19297,8 @@
 			"consequence": [["22_Projet_Danse_Sereil_1_Ja_Pix_Fait", true]]		
 		}]
     },
+
+	
 
 
 
@@ -19847,7 +19954,7 @@
 			"question": "... Ja'Pix ?",
 			"vers": "23_Ja_Pix_Chapitre3_Cabane_ApresMidi_7_9",
 			"condition": [],
-			"consequence": [[]]		
+			"consequence": [["Avoir_Regarde_Powerpoint", true]]		
 		}]
     },{
 		"identifiant": "23_Ja_Pix_Chapitre3_Cabane_ApresMidi_7_9",
